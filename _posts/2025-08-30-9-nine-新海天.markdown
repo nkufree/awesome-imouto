@@ -4,7 +4,7 @@ title: 新海天
 subtitle: 9 nine
 comments: true
 thumbnail-img: /assets/images/9_nine_sora/sora.jpg
-tags: [galgame, 白毛, 纸袋套头, 兄妹相声]
+tags: [galgame, 实妹, 白毛, 纸袋套头, 兄妹相声]
 ---
 <link rel="stylesheet" href="/assets/css/styles.css">
 <div class="img-limit" markdown="1">

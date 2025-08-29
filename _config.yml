@@ -54,6 +54,9 @@ plugins:
 #   - vendor/ruby/
 # Add the website title to the title of every page
 
+navbar-links:
+  # About Me: "aboutme"
+  github: "https://github.com/nkufree/awesome-imouto"
 
 title-on-all-pages: true
 
@@ -210,7 +213,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-# timezone: "America/Toronto"
+timezone: "Asia/Shanghai"
 # markdown: kramdown
 # highlighter: rouge
 # permalink: /:year-:month-:day-:title/
@@ -220,18 +223,22 @@ date_format: "%B %-d, %Y"
 #   input: GFM
 
 # # Default YAML values (more information on Jekyll's site)
-# defaults:
-#   -
-#     scope:
-#       path: ""
-#       type: "posts"
-#     values:
-#       layout: "post"
-#       comments: true  # add comments to all blog posts
-#       social-share: true # add social media sharing buttons to all blog posts
-#   -
-#     scope:
-#       path: "" # any file that's not a post will be a "page" layout by default
-#     values:
-#       layout: "page"
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+  -
+    scope:
+      path: "" # any file that's not a post will be a "page" layout by default
+    values:
+      layout: "page"
 
+social-network-links:
+  github: nkufree/awesome-imouto
+
+keywords: 日漫, 实妹, 妹妹, galgame, 二次元

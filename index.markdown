@@ -4,5 +4,5 @@
 
 layout: home
 title: Awesome Imouto
-subtitle: 收集日漫和galgame中的妹妹
+subtitle: 收集日漫和galgame中的<del>兄控</del>妹妹
 ---
