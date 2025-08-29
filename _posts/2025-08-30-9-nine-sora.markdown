@@ -1,0 +1,30 @@
+---
+layout: post
+title: 新海天
+subtitle: 9 nine
+comments: true
+thumbnail-img: /assets/images/9_nine_sora/sora.jpg
+tags: [galgame, 白毛, 纸袋套头, 兄妹相声]
+---
+<link rel="stylesheet" href="/assets/css/styles.css">
+<div class="img-limit" markdown="1">
+![新海天]({{ '/assets/images/9_nine_sora/sora.jpg' | relative_url }})
+</div>
+白泉学院一年级学生。
+纯真无邪，和谁都能自来熟的聊起来的，善于交际的妹妹。实际上不擅长处理人多的情况
+虽然会有赖在翔家里不走，要翔请自己吃饭的任性的一面，
+但这也是他们兄妹关系好的体现。
+最喜欢调戏容易当真且会做出可爱反应的都。
+等注意到时已经觉醒了异能，毫不犹豫地帮助哥哥和九条都。
+
+新海天是一个除了兄控这一点外非常真实的妹妹。皮，非常皮，让人想打一顿。不过作为哥哥的新海翔绝对不会允许别人欺负天。
+
+重度兄控，会偷拍哥哥。珍藏了几百张哥哥的睡颜照片！在能力暴走时期尤为严重。
+
+对哥哥的称呼五花八门，有“尼尼（にーに）”“尼样（兄様）”“大哥（あにき）”“欧尼酱（お兄ちゃん）”等。（“尼尼”应该算是日语方言）
+
+天在日文中一般读"ten"，但此处读作"sora"。天本人认为父母起名起得很别扭，因为"sora"在日文中一般写作“空”或“穹”。
+
+最擅长和哥哥搭档说相声。
+
+阅读更多：[新海天](https://mzh.moegirl.org.cn/%E6%96%B0%E6%B5%B7%E5%A4%A9)

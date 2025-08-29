@@ -1,0 +1,54 @@
+{%- comment -%}
+用法：
+{% include render_sections.html file="sections.yml" %}
+或：
+{% include render_sections.html file="folder/sections.yaml" %}
+可选参数：
+- h: 标题层级（默认1，即<h1>）
+- key: 当你的 YAML 里外面包了一层键名（如 sections）时，传 key="sections"
+{%- endcomment -%}
+
+{%- assign h = include.h | default: 1 -%}
+
+{%- comment -%} 将 "a/b.yml" -> ["a","b"]，依次取 site.data[a][b] {%- endcomment -%}
+{%- assign data_path = include.file 
+    | replace: '.yml','' 
+    | replace: '.yaml','' 
+    | split: '/' -%}
+{%- assign dataset = site.data -%}
+{%- for part in data_path -%}
+  {%- assign dataset = dataset[part] -%}
+{%- endfor -%}
+
+{%- if include.key -%}
+  {%- assign sections = dataset[include.key] -%}
+{%- else -%}
+  {%- assign sections = dataset -%}
+{%- endif -%}
+
+{%- if sections == nil -%}
+  <!-- 未找到数据：请检查 include.file 和 key 参数是否正确 -->
+{%- endif -%}
+
+{%- for s in sections -%}
+  {%- assign sid = s.id | default: s.title | slugify -%}
+  <h{{ h }} id="{{ sid }}">{{ s.title }}</h{{ h }}>
+
+  {%- if s.content -%}
+    {{ s.content | markdownify }}
+  {%- elsif s.content_file -%}
+    {%- comment -%}
+    只能 include `_includes/` 下的文件；因此把内容 md 放到 `_includes/` 里。
+    {%- endcomment -%}
+    {%- capture md -%}{% include {{ s.content_file }} %}{%- endcapture -%}
+    {{ md | markdownify }}
+  {%- endif -%}
+
+  {%- if s.items and s.items.size > 0 -%}
+    <ul>
+      {%- for item in s.items -%}
+        <li>{{ item | markdownify }}</li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+{%- endfor -%}

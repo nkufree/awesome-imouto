@@ -1,0 +1,10 @@
+# 方式A：顶层就是一个数组
+- title: "新海天"
+  content_file: "9_nine_sora/9_nine_sora.md"   # 可选：把长内容拆到 md 文件里
+
+# 方式B：如果你更想包一层键，也可以这样：
+# sections:
+#   - title: "介绍"
+#     content: "..."
+#   - title: "更多信息"
+#     content_file: "sections/more.md"

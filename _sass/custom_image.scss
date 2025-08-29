@@ -1,0 +1,12 @@
+.img-limit {
+  height: auto;
+  width: auto;
+  text-align:center;
+  overflow: hidden;
+}
+
+.img-limit img {
+  max-height: 50vh;
+  max-width: 100%;      /* 核心：不超过容器宽度 */
+  height: auto;         /* 保持比例 */
+}
