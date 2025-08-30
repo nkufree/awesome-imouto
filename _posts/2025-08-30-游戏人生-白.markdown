@@ -2,14 +2,12 @@
 layout: post
 title: 白
 subtitle: 游戏人生
-comments: true
-thumbnail-img: /assets/images/游戏人生/白.jpg
-tags: [日漫, 实妹, 白毛]
+date: 2025-08-30 12:53:00 +0800
+image:
+  path: /assets/images/游戏人生/白.jpg
+categories: [妹妹, 实妹]
+tags: [日漫, 游戏人生, 白毛]
 ---
-<link rel="stylesheet" href="/assets/css/styles.css">
-<div class="img-limit" markdown="1">
-![新海天]({{ '/assets/images/游戏人生/白.jpg' | relative_url }})
-</div>
 兄控，宣称等上七年到自己十八岁时就让空童贞毕业。当然在此之前全力守护哥哥的第一次。看到空和别的女性关系好会不高兴。
 十一岁萌萝莉。拒绝上学、没有朋友、沟通障碍、游戏废人、讨厌阳光。空的妹（义）妹，特征是雪白的头发和红色的眼睛。有兄控倾向。（以此为了二人的相亲相爱形影不离埋下了基础）具有超乎常人的语言及数理能力，是与众不同的天才少女，不被常人理解而被孤立。懂得十八国的语言及文字，于三岁时便能运用多种语言。特技是完全记忆能力，快速运算，快速分析，应用知识涵盖全人类所有知识。能在短时间内学会一种语言，此举被史蒂芬妮称为“解读”语言而非“学习”。
 

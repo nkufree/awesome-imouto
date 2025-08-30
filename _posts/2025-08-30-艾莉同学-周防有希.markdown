@@ -2,14 +2,13 @@
 layout: post
 title: 周防有希
 subtitle: 不时轻声地以俄语遮羞的邻座艾莉同学
-comments: true
-thumbnail-img: /assets/images/艾莉同学/周防有希.jpg
-tags: [日漫, 实妹]
+
+date: 2025-08-30 12:53:00 +0800
+image:
+  path: /assets/images/艾莉同学/周防有希.jpg
+categories: [妹妹, 实妹]
+tags: [日漫, 不时轻声地以俄语遮羞的邻座艾莉同学]
 ---
-<link rel="stylesheet" href="/assets/css/styles.css">
-<div class="img-limit" markdown="1">
-![周防有希]({{ '/assets/images/艾莉同学/周防有希.jpg' | relative_url }})
-</div>
 旧华族出身，历代担任外交官的周防家的大小姐。
 和艾莉莎并称年级两大美女，有“深闺的大小姐”的称号。
 由于出身于旧华族名门，交际能力高超，礼仪举止洗练。
