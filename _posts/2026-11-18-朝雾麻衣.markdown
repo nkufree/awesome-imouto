@@ -29,6 +29,13 @@ categories:
 date: 2026-11-18 00:30:00 +0800
 verified_on: '2026-11-18'
 description: 《夜明前的琉璃色》 · 义妹
+image:
+  path: /assets/images/characters/mai-asagiri.webp
+  alt: 朝雾麻衣（夜明前的琉璃色）角色图
+  thumbnail: /assets/images/characters/mai-asagiri-thumb.webp
+  source: https://www.tbs.co.jp/yoakena/04chara/mai.html
+  source_name: TBS 动画官方麻衣角色页（角色配图）
+  original: https://www.tbs.co.jp/yoakena/04chara/images/mai-body.gif
 ---
 朝雾达哉的妹妹，实际上是被朝雾家收养的孩子，与达哉没有血缘关系。她擅长料理，承担家务，在学园吹奏乐部演奏长笛。
 

@@ -28,9 +28,14 @@ categories:
 verified_on: '2026-11-18'
 description: 《9-nine-》 · 实妹
 date: 2025-08-30 13:22:00 +0800
-image:
-  path: /assets/images/9_nine_sora/新海天.jpg
 last_modified_at: 2026-11-18 00:00:00 +0800
+image:
+  path: /assets/images/characters/sora-niimi.webp
+  alt: 新海天（9-nine-）角色图
+  thumbnail: /assets/images/characters/sora-niimi-thumb.webp
+  source: https://9-nine-project.com/character/sora/
+  source_name: 9-nine- 官方角色页（角色配图）
+  original: https://9-nine-project.com/wp/wp-content/themes/nine-project/assets/images/pc/character/img_sora_01.png
 ---
 新海翔的妹妹，白泉学园一年级学生。性格开朗、善于交际，常到独居哥哥的家里吃零食、打游戏；看起来很有精神，其实也有胆小的一面。获得 Artifact 后，她与翔、九条都一同行动。
 

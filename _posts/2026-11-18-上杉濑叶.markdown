@@ -22,6 +22,13 @@ categories:
 date: 2026-11-18 00:30:00 +0800
 verified_on: '2026-11-18'
 description: 《五等分的新娘》 · 实妹
+image:
+  path: /assets/images/characters/raiha-uesugi.webp
+  alt: 上杉濑叶（五等分的新娘）角色图
+  thumbnail: /assets/images/characters/raiha-uesugi-thumb.webp
+  source: https://www.tbs.co.jp/anime/5hanayome/1st/news/news20181126_02.html
+  source_name: TBS 动画官网追加角色公告（角色配图）
+  original: https://www.tbs.co.jp/anime/5hanayome/1st/news/img/news20181126_03.png
 ---
 上杉风太郎的妹妹，是上杉家的家庭成员之一。她提供了认识风太郎家庭生活的视角；与中野家的五胞胎不同，她与风太郎的关系明确是兄妹。
 

@@ -29,6 +29,13 @@ categories:
 date: 2026-11-18 00:30:00 +0800
 verified_on: '2026-11-18'
 description: 《恋花绽放樱飞时》 · 血缘待核
+image:
+  path: /assets/images/characters/konami-asaba.webp
+  alt: 浅叶小奈美（恋花绽放樱飞时）角色图
+  thumbnail: /assets/images/characters/konami-asaba-thumb.webp
+  source: https://dramaticcreate.com/sakusaku/chara.html
+  source_name: PS4 版发行方角色图
+  original: https://dramaticcreate.com/sakusaku/images/chara/chara04.jpg
 ---
 浅叶悠真的妹妹，《恋花绽放樱飞时》的主要角色之一。她喜欢将棋，与哥哥之间的相处也是人物介绍的重要部分。本次先收录妹妹身份与角色出处，不根据同姓直接确定血缘类型。
 

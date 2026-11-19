@@ -23,6 +23,13 @@ categories:
 date: 2026-11-18 00:30:00 +0800
 verified_on: '2026-11-18'
 description: 《To LOVEる》 · 实妹
+image:
+  path: /assets/images/characters/mikan-yuki.webp
+  alt: 结城美柑（To LOVEる）角色图
+  thumbnail: /assets/images/characters/mikan-yuki-thumb.webp
+  source: https://www.tbs.co.jp/anime/to-love-ru/04chara/chara.html
+  source_name: TBS《To LOVEる》官方角色页（角色配图）
+  original: https://www.tbs.co.jp/anime/to-love-ru/04chara/images/chara_img06.jpg
 ---
 结城梨斗的妹妹。父母因工作经常不在家，美柑承担了家中不少家务，处事稳重，有时显得比哥哥更成熟。她也会观察梨斗与菈菈、春菜之间的关系，是结城家日常中的重要角色。
 

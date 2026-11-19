@@ -24,6 +24,13 @@ categories:
 verified_on: '2026-11-18'
 description: 《CLANNAD》 · 实妹
 date: 2026-11-18 00:00:00 +0800
+image:
+  path: /assets/images/characters/mei-sunohara.webp
+  alt: 春原芽衣（CLANNAD）角色图
+  thumbnail: /assets/images/characters/mei-sunohara-thumb.webp
+  source: https://www.tbs.co.jp/clannad/04chara/chara11.html
+  source_name: TBS《CLANNAD AFTER STORY》官方芽衣角色页（角色配图）
+  original: https://www.tbs.co.jp/clannad/04chara/images/chara11.jpg
 ---
 春原阳平的妹妹。她比哥哥更可靠，常因担心阳平的生活而从乡下前来探望，也是芳野祐介的歌迷。芽衣的来访让阳平作为兄长的一面，以及春原兄妹的关系成为故事的一部分。
 

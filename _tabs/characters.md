@@ -19,28 +19,28 @@ order: 0
 
 ## 实妹
 
-| 角色 | 作品 | 兄姊 | 媒介 |
-| :-- | :-- | :-- | :-- |
+| 配图 | 角色 | 作品 | 兄姊 | 媒介 |
+| :--: | :-- | :-- | :-- | :-- |
 {% for character in related -%}
-| [{{ character.title }}]({{ character.url | relative_url }}) | {{ character.subtitle }} | {{ character.sibling }} | {{ character.media | join: '、' }} |
+| {% include character-thumbnail.html character=character %} | [{{ character.title }}]({{ character.url | relative_url }}) | {{ character.subtitle }} | {{ character.sibling }} | {{ character.media | join: '、' }} |
 {% endfor %}
 
 ## 义妹
 
-| 角色 | 作品 | 兄姊 | 媒介 |
-| :-- | :-- | :-- | :-- |
+| 配图 | 角色 | 作品 | 兄姊 | 媒介 |
+| :--: | :-- | :-- | :-- | :-- |
 {% for character in adopted -%}
-| [{{ character.title }}]({{ character.url | relative_url }}) | {{ character.subtitle }} | {{ character.sibling }} | {{ character.media | join: '、' }} |
+| {% include character-thumbnail.html character=character %} | [{{ character.title }}]({{ character.url | relative_url }}) | {{ character.subtitle }} | {{ character.sibling }} | {{ character.media | join: '、' }} |
 {% endfor %}
 
 ## 妹妹身份确认，血缘分类待核
 
 以下角色已由官网确认妹妹身份，但本次找到的资料不足以明确区分实妹、义妹。她们计入收录总数，不计入前两类，待补充设定出处后再归类。
 
-| 角色 | 作品 | 哥哥 | 媒介 |
-| :-- | :-- | :-- | :-- |
+| 配图 | 角色 | 作品 | 哥哥 | 媒介 |
+| :--: | :-- | :-- | :-- | :-- |
 {% for character in unclassified -%}
-| [{{ character.title }}]({{ character.url | relative_url }}) | {{ character.subtitle }} | {{ character.sibling }} | {{ character.media | join: '、' }} |
+| {% include character-thumbnail.html character=character %} | [{{ character.title }}]({{ character.url | relative_url }}) | {{ character.subtitle }} | {{ character.sibling }} | {{ character.media | join: '、' }} |
 {% endfor %}
 
 媒介栏标示本次已收录的动画或 Galgame 资料，并非作品全部改编列表。角色页仅介绍基础设定；亲属身份本身有时也会涉及前期剧情。

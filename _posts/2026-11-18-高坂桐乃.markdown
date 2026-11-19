@@ -30,6 +30,13 @@ categories:
 verified_on: '2026-11-18'
 description: 《我的妹妹哪有这么可爱！》 · 实妹
 date: 2026-11-18 00:00:00 +0800
+image:
+  path: /assets/images/characters/kirino-kosaka.webp
+  alt: 高坂桐乃（我的妹妹哪有这么可爱！）角色图
+  thumbnail: /assets/images/characters/kirino-kosaka-thumb.webp
+  source: https://www.oreimo-anime.com/1st/chara/index.html
+  source_name: 动画第一季官方角色页（角色配图）
+  original: https://www.oreimo-anime.com/1st/chara/img/chara01.jpg
 ---
 高坂京介的妹妹，兼顾学业、田径和杂志读者模特工作的中学生。她私下热衷动画与游戏，在哥哥面前却常表现得强势。京介得知她的兴趣后，兄妹围绕“人生咨询”逐渐展开交流。
 

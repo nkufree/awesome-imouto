@@ -26,6 +26,13 @@ categories:
 date: 2026-11-18 00:30:00 +0800
 verified_on: '2026-11-18'
 description: 《物语系列》 · 实妹
+image:
+  path: /assets/images/characters/tsukihi-araragi.webp
+  alt: 阿良良木月火（物语系列）角色图
+  thumbnail: /assets/images/characters/tsukihi-araragi-thumb.webp
+  source: https://www.monogatari-series.com/2ndseason/sp/character/tsukihi.html
+  source_name: 《物语系列 第二季》官方月火介绍（角色配图）
+  original: https://www.monogatari-series.com/2ndseason/sp/character/img/chara_img09.jpg
 ---
 阿良良木历年幼的妹妹，与火怜组成“火焰姐妹”。她参加茶道部，喜欢和服，外表文静却有容易动怒的一面。《伪物语》中的“月火凤凰”篇以她为中心。
 

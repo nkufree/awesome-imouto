@@ -24,6 +24,13 @@ categories:
 verified_on: '2026-11-18'
 description: 《魔法科高校的劣等生》 · 实妹
 date: 2026-11-18 00:00:00 +0800
+image:
+  path: /assets/images/characters/miyuki-shiba.webp
+  alt: 司波深雪（魔法科高校的劣等生）角色图
+  thumbnail: /assets/images/characters/miyuki-shiba-thumb.webp
+  source: https://mahouka-yuutousei.jp/character/
+  source_name: 《魔法科高校的优等生》官方角色页（角色配图）
+  original: https://mahouka-yuutousei.jp/assets/img/character/img_miyuki.png
 ---
 司波达也的妹妹，进入第一高校的一科优等生。她以“兄长大人”称呼达也，十分敬爱哥哥，也对他因二科生身份受到轻视感到不平。这里采用《魔法科高校的优等生》开篇的角色介绍，避免混入后续篇章的身份信息。
 

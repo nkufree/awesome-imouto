@@ -1,0 +1,35 @@
+/* Keep tall character illustrations visible without cropping them to a banner. */
+article > header .preview-img {
+  aspect-ratio: auto;
+  height: auto;
+  text-align: center;
+}
+
+article > header .preview-img img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  max-height: 65vh;
+  object-fit: contain;
+  margin: 0 auto;
+}
+
+#post-list .preview-img img {
+  object-fit: contain;
+}
+
+.content img.character-thumb {
+  display: block;
+  width: 64px;
+  height: 80px;
+  min-width: 64px;
+  object-fit: contain;
+  margin: 0 auto;
+  border-radius: 0.25rem;
+}
+
+.character-image-credit {
+  font-size: 0.875rem;
+  color: var(--text-muted-color);
+}

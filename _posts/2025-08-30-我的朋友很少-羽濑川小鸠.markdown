@@ -23,9 +23,14 @@ categories:
 verified_on: '2026-11-18'
 description: 《我的朋友很少》 · 实妹
 date: 2025-08-30 13:00:00 +0800
-image:
-  path: /assets/images/我的朋友很少/羽濑川小鸠.png
 last_modified_at: 2026-11-18 00:00:00 +0800
+image:
+  path: /assets/images/characters/kobato-hasegawa.webp
+  alt: 羽濑川小鸠（我的朋友很少）角色图
+  thumbnail: /assets/images/characters/kobato-hasegawa-thumb.webp
+  source: https://www.tbs.co.jp/anime/haganai/1st/chara/chara06.html
+  source_name: TBS 动画官方角色页（角色配图）
+  original: https://www.tbs.co.jp/anime/haganai/1st/chara/images/chara_img06.jpg
 ---
 羽濑川小鹰的妹妹。受英国母亲的外貌影响，有着金发与碧眼；进入中学后迷上动画，开始模仿作品中的角色说话。她的中二病言行和与哥哥的相处，是角色日常喜剧的重要部分。
 

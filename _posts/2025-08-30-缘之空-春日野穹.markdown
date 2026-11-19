@@ -29,9 +29,14 @@ categories:
 verified_on: '2026-11-18'
 description: 《缘之空》 · 实妹
 date: 2025-08-30 12:53:00 +0800
-image:
-  path: /assets/images/缘之空/春日野穹.jpg
 last_modified_at: 2026-11-18 00:00:00 +0800
+image:
+  path: /assets/images/characters/sora-kasugano.webp
+  alt: 春日野穹（缘之空）角色图
+  thumbnail: /assets/images/characters/sora-kasugano-thumb.webp
+  source: https://king-cr.jp/special/yosuganosora/character/
+  source_name: KING RECORDS 动画官方角色页（角色配图）
+  original: https://king-cr.jp/special/yosuganosora/images/chara/i_sora.png
 ---
 春日野悠的双胞胎妹妹。父母去世后，两人搬到祖父曾经居住的乡下生活。穹从小体弱，性格寡言，日常生活十分依赖悠，也喜欢零食和上网。此处仅整理开篇人物设定，不展开各路线的结局。
 

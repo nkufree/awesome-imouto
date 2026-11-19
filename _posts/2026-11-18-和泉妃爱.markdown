@@ -28,6 +28,13 @@ categories:
 date: 2026-11-18 00:30:00 +0800
 verified_on: '2026-11-18'
 description: 《Hamidashi Creative》 · 实妹
+image:
+  path: /assets/images/characters/hiyori-izumi.webp
+  alt: 和泉妃爱（Hamidashi Creative）角色图
+  thumbnail: /assets/images/characters/hiyori-izumi-thumb.webp
+  source: https://imel.co.jp/hamidashi/character
+  source_name: 主机版发行方官方 Character（角色配图）
+  original: https://imel.co.jp/hamidashi/wp/wp-content/themes/hamidashi/img/character/hiyori_pic.png
 ---
 和泉智宏的妹妹，也是从童星成长起来的声优。她不仅照顾哥哥的生活，还乐于纵容哥哥，是兄妹日常的主动一方。游戏与动画均有登场，此页配音采用动画版署名。
 

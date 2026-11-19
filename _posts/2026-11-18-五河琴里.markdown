@@ -24,6 +24,13 @@ categories:
 verified_on: '2026-11-18'
 description: 《约会大作战》 · 义妹
 date: 2026-11-18 00:00:00 +0800
+image:
+  path: /assets/images/characters/kotori-itsuka.webp
+  alt: 五河琴里（约会大作战）角色图
+  thumbnail: /assets/images/characters/kotori-itsuka-thumb.webp
+  source: https://date-a-live-anime.com/character/character_kotori.html
+  source_name: 动画第三季官方琴里角色页（角色配图）
+  original: https://date-a-live-anime.com/common/images/2nd/character/character_kotori.png
 ---
 五河士道的义妹，同时担任以对话拯救精灵的组织 Ratatoskr 的司令。白色与黑色缎带分别对应她作为妹妹与司令时的不同表现；棒棒糖也是她具有辨识度的随身物品。
 

@@ -22,6 +22,13 @@ categories:
 date: 2026-11-18 00:30:00 +0800
 verified_on: '2026-11-18'
 description: 《Hapymaher》 · 实妹
+image:
+  path: /assets/images/characters/maia-naitou.webp
+  alt: 内藤舞亚（Hapymaher）角色图
+  thumbnail: /assets/images/characters/maia-naitou-thumb.webp
+  source: https://www.purplesoftware.jp/products/hapymaher-re/hapymaher.html
+  source_name: Purple Software《Hapymaher REGRET END》官方介绍（角色配图）
+  original: https://www.purplesoftware.jp/products/hapymaher-re/img/product/char-mai_l.png
 ---
 内藤透的妹妹，是与透的明晰梦和过去经历密切相关的人物。她在梦中出现，使原本不安稳的梦境发生变化。她与扮演“妹妹”角色的青梅竹马莲乃咲应当分别理解。
 

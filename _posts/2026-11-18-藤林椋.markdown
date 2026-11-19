@@ -29,6 +29,13 @@ categories:
 verified_on: '2026-11-18'
 description: 《CLANNAD》 · 实妹
 date: 2026-11-18 00:00:00 +0800
+image:
+  path: /assets/images/characters/ryou-fujibayashi.webp
+  alt: 藤林椋（CLANNAD）角色图
+  thumbnail: /assets/images/characters/ryou-fujibayashi-thumb.webp
+  source: https://www.tbs.co.jp/clannad/04chara/chara07.html
+  source_name: TBS 官方椋角色页（角色配图）
+  original: https://www.tbs.co.jp/clannad/04chara/images/chara07.jpg
 ---
 藤林杏的双胞胎妹妹，与冈崎朋也同班并担任班长。相比活泼的姐姐，她更安静、内向，喜欢为别人占卜，但结果往往不准。她是“姐姐的妹妹”，并非男主角的妹妹。
 
