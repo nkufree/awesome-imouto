@@ -1,0 +1,36 @@
+---
+title: 阿良良木火怜
+native_name: 阿良々木 火憐（あららぎ かれん）
+subtitle: 物语系列
+sibling: 阿良良木历（哥哥）；阿良良木月火（妹妹）
+relation: 实妹
+sources:
+- title: Bandai Channel《伪物语》角色与演职员表
+  url: https://www.b-ch.com/titles/3191/
+  supports: 两位妹妹与阿良良木历的关系、性格及动画配音
+- title: 《伪物语》官方 Introduction
+  url: https://www.monogatari-series.com/nisemonogatari/intro/index.html
+  supports: 妹妹身份、姐妹组合及篇章定位
+voice: 喜多村英梨（动画版）
+media:
+- 动画
+tags:
+- 日漫
+- 物语系列
+- 火焰姐妹
+character: true
+layout: post
+categories:
+- 妹妹
+- 实妹
+date: 2026-11-18 00:30:00 +0800
+verified_on: '2026-11-18'
+description: 《物语系列》 · 实妹
+---
+阿良良木历两个妹妹中年长的一位，与月火合称“火焰姐妹”。她性格直接、行动力强，以维护正义为己任，是《伪物语》中“火怜蜜蜂”篇的中心人物。她既是历的妹妹，也是月火的姐姐。
+
+{% include character-profile.html %}
+
+## 资料来源
+
+{% include character-sources.html %}

@@ -1,0 +1,32 @@
+---
+title: 保登心爱
+native_name: 保登 心愛（ほと ここあ）／ココア
+subtitle: 请问您今天要来点兔子吗？
+sibling: 保登摩卡（姐姐）
+relation: 实妹
+sources:
+- title: 系列官网摩卡角色页
+  url: https://www.gochiusa.com/chara/mocha.html
+  supports: 摩卡是可可娅姐姐，并明确可可娅是四兄弟姊妹中的老幺
+media:
+- 动画
+tags:
+- 日漫
+- 请问您今天要来点兔子吗
+- 姊妹
+character: true
+layout: post
+categories:
+- 妹妹
+- 实妹
+date: 2026-11-18 00:30:00 +0800
+verified_on: '2026-11-18'
+description: 《请问您今天要来点兔子吗？》 · 实妹
+---
+可可娅是保登家四个孩子中最年幼的一位，姐姐摩卡在老家的面包店工作，也一直关心妹妹。虽然可可娅常想成为别人可靠的姐姐，她在自己家中确实处于妹妹的位置。
+
+{% include character-profile.html %}
+
+## 资料来源
+
+{% include character-sources.html %}

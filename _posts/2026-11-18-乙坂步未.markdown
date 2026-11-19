@@ -1,0 +1,35 @@
+---
+title: 乙坂步未
+native_name: 乙坂 歩未（おとさか あゆみ）
+subtitle: Charlotte
+sibling: 乙坂有宇（哥哥）
+relation: 实妹
+sources:
+- title: Charlotte 官方手机版 Character
+  url: https://charlotte-anime.jp/sp/character/
+  supports: 初登场的兄妹关系与人物性格
+- title: Bandai Channel 作品介绍
+  url: https://www.b-ch.com/titles/4602/
+  supports: 兄妹关系、性格与动画配音
+voice: 麻倉もも（动画版）
+media:
+- 动画
+tags:
+- 日漫
+- Charlotte
+character: true
+layout: post
+categories:
+- 妹妹
+- 实妹
+date: 2026-11-18 00:30:00 +0800
+verified_on: '2026-11-18'
+description: 《Charlotte》 · 实妹
+---
+乙坂有宇的妹妹，是一名中学生。她单纯、亲近哥哥，构成了有宇日常生活中的重要支撑。此条目采用动画初登场的介绍，不提前展开她与特殊能力有关的后续剧情。
+
+{% include character-profile.html %}
+
+## 资料来源
+
+{% include character-sources.html %}

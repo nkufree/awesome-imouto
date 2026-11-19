@@ -1,0 +1,17 @@
+## 角色资料
+
+| 项目 | 内容 |
+| :-- | :-- |
+| 日文名 | {{ page.native_name | escape }} |
+| 出自作品 | {{ page.subtitle | escape }} |
+| 兄姊 | {{ page.sibling | escape }} |
+| 妹妹类型 | {{ page.relation | escape }} |
+| 收录媒介 | {{ page.media | join: '、' | escape }} |
+| 日语配音 | {{ page.voice | default: '待补充可核验的版本及出处' | escape }} |
+| 资料核对日期 | {{ page.verified_on }} |
+
+{% if page.relation_detail %}
+**关系说明：** {{ page.relation_detail | escape }}
+{% endif %}
+
+[查看全部角色]({{ '/characters/' | relative_url }}) · [收录说明]({{ '/about/' | relative_url }})

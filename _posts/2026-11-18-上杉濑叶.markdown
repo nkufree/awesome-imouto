@@ -1,0 +1,32 @@
+---
+title: 上杉濑叶
+native_name: 上杉 らいは（うえすぎ らいは）
+subtitle: 五等分的新娘
+sibling: 上杉风太郎（哥哥）
+relation: 实妹
+sources:
+- title: TBS 动画官网追加角色公告
+  url: https://www.tbs.co.jp/anime/5hanayome/1st/news/news20181126_02.html
+  supports: 明确记载风太郎的妹妹及其动画配音
+voice: 高森奈津美（动画版）
+media:
+- 动画
+tags:
+- 日漫
+- 五等分的新娘
+character: true
+layout: post
+categories:
+- 妹妹
+- 实妹
+date: 2026-11-18 00:30:00 +0800
+verified_on: '2026-11-18'
+description: 《五等分的新娘》 · 实妹
+---
+上杉风太郎的妹妹，是上杉家的家庭成员之一。她提供了认识风太郎家庭生活的视角；与中野家的五胞胎不同，她与风太郎的关系明确是兄妹。
+
+{% include character-profile.html %}
+
+## 资料来源
+
+{% include character-sources.html %}

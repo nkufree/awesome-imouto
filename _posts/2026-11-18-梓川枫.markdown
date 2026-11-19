@@ -1,0 +1,37 @@
+---
+title: 梓川枫
+native_name: 梓川 かえで（あずさがわ かえで）
+subtitle: 青春猪头少年系列
+sibling: 梓川咲太（哥哥）
+relation: 实妹
+media:
+- 动画
+tags:
+- 日漫
+- 青春猪头少年系列
+- 熊猫
+sources:
+- title: 电视动画官方 Character
+  url: https://ao-buta.com/tv/character/
+  supports: 兄妹关系、生活状态、喜好及动画配音
+voice: 久保ユリカ（动画版）
+character: true
+layout: post
+categories:
+- 妹妹
+- 实妹
+verified_on: '2026-11-18'
+description: 《青春猪头少年系列》 · 实妹
+date: 2026-11-18 00:00:00 +0800
+---
+梓川咲太的妹妹。因过去遭受欺凌而难以外出，平时留在家里，喜欢熊猫和哥哥。她努力成为自己心目中的理想妹妹；这里以电视动画初登场阶段的“かえで”为介绍基准。
+
+{% include character-profile.html %}
+
+## 版本与关系说明
+
+后续“梓川花枫／梓川花楓”相关身份变化涉及重要剧情，此处不展开，也不拆为重复人物。
+
+## 资料来源
+
+{% include character-sources.html %}

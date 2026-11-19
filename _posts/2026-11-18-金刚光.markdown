@@ -1,0 +1,34 @@
+---
+title: 金刚光
+native_name: 金剛 ヒカリ（こんごう ヒカリ）
+subtitle: 干物妹！小埋
+sibling: 金刚叶（金剛叶，姐姐）
+relation: 实妹
+sources:
+- title: 《干物妹！小埋 R》官方 Character
+  url: https://www.umaru-ani.me/character/
+  supports: 叶的妹妹身份、学校信息、对太平的称呼及配音
+voice: 水瀬いのり（动画版）
+media:
+- 动画
+relation_detail: 金刚叶的妹妹；称呼太平为哥哥不构成亲生或收养兄妹关系。
+tags:
+- 日漫
+- 干物妹小埋
+- 姊妹
+character: true
+layout: post
+categories:
+- 妹妹
+- 实妹
+date: 2026-11-18 00:30:00 +0800
+verified_on: '2026-11-18'
+description: 《干物妹！小埋》 · 实妹
+---
+金刚叶课长的妹妹，就读于荒矢田高中的特进班。她十分亲近太平，称他为“哥哥”，但这是一种称呼；官网明确的亲属关系是她与叶之间的姊妹关系。
+
+{% include character-profile.html %}
+
+## 资料来源
+
+{% include character-sources.html %}

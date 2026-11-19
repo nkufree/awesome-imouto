@@ -1,0 +1,33 @@
+---
+title: 小野寺春
+native_name: 小野寺 春（おのでら はる）
+subtitle: 伪恋
+sibling: 小野寺小咲（姐姐）
+relation: 实妹
+sources:
+- title: 《伪恋：》官方 Character
+  url: https://www.nisekoi.jp/sp/chara/
+  supports: 与小咲的姊妹关系、性格及动画配音
+voice: 佐倉綾音（动画第二季）
+media:
+- 动画
+tags:
+- 日漫
+- 伪恋
+- 姊妹
+character: true
+layout: post
+categories:
+- 妹妹
+- 实妹
+date: 2026-11-18 00:30:00 +0800
+verified_on: '2026-11-18'
+description: 《伪恋》 · 实妹
+---
+小野寺小咲的妹妹，十分喜欢姐姐。动画第二季的官方介绍明确将她写作小咲的妹妹，并提到她对一条乐抱有敌意。她不是乐的妹妹，条目按小野寺姊妹关系收录。
+
+{% include character-profile.html %}
+
+## 资料来源
+
+{% include character-sources.html %}

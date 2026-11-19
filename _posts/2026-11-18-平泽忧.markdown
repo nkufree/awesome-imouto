@@ -1,0 +1,34 @@
+---
+title: 平泽忧
+native_name: 平沢 憂（ひらさわ うい）
+subtitle: 轻音少女
+sibling: 平泽唯（姐姐）
+relation: 实妹
+sources:
+- title: TBS《轻音少女》官方忧角色页
+  url: https://www.tbs.co.jp/anime/k-on/k-on_tv/chara/chara06.html
+  supports: 姊妹关系、年龄差、性格与动画配音
+voice: 米澤円（动画版）
+media:
+- 动画
+tags:
+- 日漫
+- 轻音少女
+- 家务
+- 姊妹
+character: true
+layout: post
+categories:
+- 妹妹
+- 实妹
+date: 2026-11-18 00:30:00 +0800
+verified_on: '2026-11-18'
+description: 《轻音少女》 · 实妹
+---
+比平泽唯小一岁的妹妹。她性格温和，擅长料理与家务，学习成绩也很好，还会帮助姐姐补习。与轻音部成员从校园认识唯的视角相比，忧呈现了姐姐在家庭中的另一面。
+
+{% include character-profile.html %}
+
+## 资料来源
+
+{% include character-sources.html %}

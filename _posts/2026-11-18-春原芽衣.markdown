@@ -1,0 +1,34 @@
+---
+title: 春原芽衣
+native_name: 春原 芽衣（すのはら めい）
+subtitle: CLANNAD
+sibling: 春原阳平（哥哥）
+relation: 实妹
+media:
+- Galgame
+- 动画
+tags:
+- 日漫
+- galgame
+- CLANNAD
+sources:
+- title: TBS《CLANNAD AFTER STORY》官方芽衣角色页
+  url: https://www.tbs.co.jp/clannad/04chara/chara11.html
+  supports: 兄妹关系、性格、喜好与动画配音
+voice: 田村ゆかり（动画版）
+character: true
+layout: post
+categories:
+- 妹妹
+- 实妹
+verified_on: '2026-11-18'
+description: 《CLANNAD》 · 实妹
+date: 2026-11-18 00:00:00 +0800
+---
+春原阳平的妹妹。她比哥哥更可靠，常因担心阳平的生活而从乡下前来探望，也是芳野祐介的歌迷。芽衣的来访让阳平作为兄长的一面，以及春原兄妹的关系成为故事的一部分。
+
+{% include character-profile.html %}
+
+## 资料来源
+
+{% include character-sources.html %}

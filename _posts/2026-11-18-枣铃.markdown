@@ -1,0 +1,43 @@
+---
+title: 枣铃
+native_name: 棗 鈴（なつめ りん）
+subtitle: Little Busters!
+sibling: 枣恭介（哥哥）
+relation: 实妹
+media:
+- Galgame
+- 动画
+tags:
+- 日漫
+- galgame
+- Little Busters
+- 猫
+- 怕生
+sources:
+- title: Visual Arts 官方外传角色介绍
+  url: https://sp.v-motto.jp/d/pc/appli/lbss_s/index.php
+  supports: 兄妹关系、青梅竹马关系与性格
+- title: Bandai Channel 动画介绍
+  url: https://www.b-ch.com/titles/3447/
+  supports: 猫的喜好、动画设定与动画配音
+voice: たみやすともえ（动画版）
+character: true
+layout: post
+categories:
+- 妹妹
+- 实妹
+verified_on: '2026-11-18'
+description: 《Little Busters!》 · 实妹
+date: 2026-11-18 00:00:00 +0800
+---
+枣恭介的妹妹，直枝理树的青梅竹马，也是 Little Busters 的成员。她不擅长与陌生人交流，对熟悉的伙伴却会直接吐槽，尤其常以高踢腿回应他们的胡闹。她喜欢猫，经常被猫围在身边。
+
+{% include character-profile.html %}
+
+## 版本与关系说明
+
+妹妹对应的是枣恭介，而不是主人公直枝理树。配音字段采用动画版署名。
+
+## 资料来源
+
+{% include character-sources.html %}

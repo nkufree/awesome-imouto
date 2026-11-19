@@ -1,0 +1,38 @@
+---
+title: 和泉妃爱
+native_name: 和泉 妃愛（いずみ ひより）
+subtitle: Hamidashi Creative
+sibling: 和泉智宏（哥哥）
+relation: 实妹
+sources:
+- title: 主机版发行方官方 Character
+  url: https://imel.co.jp/hamidashi/character
+  supports: 智宏的妹妹身份、声优工作与照顾哥哥的性格
+- title: 动画官方角色介绍
+  url: https://hcanime.com/
+  supports: 动画版人物设定及配音
+voice: 戸田めぐみ（动画版）
+media:
+- Galgame
+- 动画
+tags:
+- 日漫
+- galgame
+- Hamidashi Creative
+- 声优
+character: true
+layout: post
+categories:
+- 妹妹
+- 实妹
+date: 2026-11-18 00:30:00 +0800
+verified_on: '2026-11-18'
+description: 《Hamidashi Creative》 · 实妹
+---
+和泉智宏的妹妹，也是从童星成长起来的声优。她不仅照顾哥哥的生活，还乐于纵容哥哥，是兄妹日常的主动一方。游戏与动画均有登场，此页配音采用动画版署名。
+
+{% include character-profile.html %}
+
+## 资料来源
+
+{% include character-sources.html %}

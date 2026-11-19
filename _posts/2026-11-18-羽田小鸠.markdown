@@ -1,0 +1,39 @@
+---
+title: 羽田小鸠
+native_name: 羽田 小鳩（はねだ こばと）
+subtitle: 我们没有翅膀
+sibling: 羽田鹰志（哥哥）
+relation: 义妹
+sources:
+- title: Marvelous 动画官方角色介绍
+  url: https://www.marv.jp/special/oretsuba/chara.html
+  supports: 人物性格及动画身份
+- title: 电击 Online 主机版人物介绍
+  url: https://dengekionline.com/elem/000/000/824/824786/
+  supports: 明确记载鹰志的义妹及主机版配音
+voice: 又吉愛（PS3／PS Vita 版）
+media:
+- Galgame
+- 动画
+relation_detail: 羽田鹰志的义妹；与羽濑川小鸠分别收录。
+tags:
+- 日漫
+- galgame
+- 我们没有翅膀
+- 怕生
+character: true
+layout: post
+categories:
+- 妹妹
+- 义妹
+date: 2026-11-18 00:30:00 +0800
+verified_on: '2026-11-18'
+description: 《我们没有翅膀》 · 义妹
+---
+羽田鹰志的义妹。她很怕生，与不熟悉的人相处时容易紧张，看起来沉默，内心却在努力寻找合适的话题。这位小鸠出自《我们没有翅膀》，与《我的朋友很少》的羽濑川小鸠是不同角色。
+
+{% include character-profile.html %}
+
+## 资料来源
+
+{% include character-sources.html %}

@@ -1,0 +1,39 @@
+---
+title: 朝仓音梦
+native_name: 朝倉 音夢（あさくら ねむ）
+subtitle: D.C.～初音岛～
+sibling: 朝仓纯一（哥哥）
+relation: 义妹
+media:
+- Galgame
+- 动画
+tags:
+- 日漫
+- galgame
+- D.C.
+- 初音岛
+sources:
+- title: Bandai Channel《D.C.》角色及演职员表
+  url: https://www.b-ch.com/titles/3885/
+  supports: 收养关系、性格、动画年份及动画配音
+voice: 野川さくら（2003 年动画版）
+character: true
+layout: post
+categories:
+- 妹妹
+- 义妹
+verified_on: '2026-11-18'
+description: 《D.C.～初音岛～》 · 义妹
+date: 2026-11-18 00:00:00 +0800
+---
+幼时失去双亲后被朝仓家收养，与朝仓纯一一起长大的义妹。她在学园中很受欢迎，却也会在纯一面前表现出与对待其他人时不同的一面。此条目的简介与配音采用 2003 年电视动画资料。
+
+{% include character-profile.html %}
+
+## 版本与关系说明
+
+不同游戏版本及重制版可能更换配音，不将此处的动画版署名套用于所有版本。
+
+## 资料来源
+
+{% include character-sources.html %}

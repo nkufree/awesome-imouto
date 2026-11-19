@@ -1,0 +1,33 @@
+---
+title: 白崎さより
+native_name: 白崎 さより（しらさき さより）
+subtitle: 大图书馆的牧羊人
+sibling: 白崎绪美（白崎つぐみ，姐姐）
+relation: 实妹
+sources:
+- title: ARIA《Library Party》PS4 版角色页
+  url: https://aria-soft.com/daito_ps4/character10.html
+  supports: 明确的姊妹关系、年龄差、住院背景与性格
+media:
+- Galgame
+relation_detail: 白崎绪美的妹妹，不是主人公笕京太郎的妹妹。中文译名尚未统一，标题暂用日文名。
+tags:
+- galgame
+- 大图书馆的牧羊人
+- 姊妹
+character: true
+layout: post
+categories:
+- 妹妹
+- 实妹
+date: 2026-11-18 00:30:00 +0800
+verified_on: '2026-11-18'
+description: 《大图书馆的牧羊人》 · 实妹
+---
+白崎绪美小两岁的妹妹。她曾因体弱长期住院，之后进入汐美学园；姐姐希望让学园成为更有趣的地方，也与妹妹的经历有关。她性格可靠，有时还会关心姐姐的恋爱。
+
+{% include character-profile.html %}
+
+## 资料来源
+
+{% include character-sources.html %}

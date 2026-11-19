@@ -1,5 +1,5 @@
 <div class="img-limit" markdown="1">
-![新海天]({{ '/assets/images/9_nine_sora/sora.jpg' | relative_url }})
+![新海天]({{ '/assets/images/9_nine_sora/新海天.jpg' | relative_url }})
 </div>
 
 

@@ -1,0 +1,36 @@
+---
+title: 内藤舞亚
+native_name: 内藤 舞亜（ないとう まいあ）
+subtitle: Hapymaher
+sibling: 内藤透（哥哥）
+relation: 实妹
+sources:
+- title: Purple Software《Hapymaher REGRET END》官方介绍
+  url: https://www.purplesoftware.jp/products/hapymaher-re/hapymaher.html
+  supports: 舞亚的妹妹身份、梦境故事，以及莲乃咲的青梅竹马身份
+media:
+- Galgame
+tags:
+- galgame
+- Hapymaher
+- 梦境
+character: true
+layout: post
+categories:
+- 妹妹
+- 实妹
+date: 2026-11-18 00:30:00 +0800
+verified_on: '2026-11-18'
+description: 《Hapymaher》 · 实妹
+---
+内藤透的妹妹，是与透的明晰梦和过去经历密切相关的人物。她在梦中出现，使原本不安稳的梦境发生变化。她与扮演“妹妹”角色的青梅竹马莲乃咲应当分别理解。
+
+{% include character-profile.html %}
+
+## 版本与关系说明
+
+舞亚在现实与梦中的具体处境，以及过去发生的事件，涉及重要剧情；基础条目不展开结局。
+
+## 资料来源
+
+{% include character-sources.html %}

@@ -1,0 +1,40 @@
+---
+title: 和泉纱雾
+native_name: 和泉 紗霧（いずみ さぎり）
+subtitle: 埃罗芒阿老师
+sibling: 和泉正宗（哥哥）
+relation: 义妹
+media:
+- 动画
+tags:
+- 日漫
+- 埃罗芒阿老师
+- 插画师
+- 白毛
+sources:
+- title: 动画官方 Character
+  url: https://eromanga-sensei.com/character/
+  supports: 无血缘关系、笔名及生活状态
+- title: 动画官方 Introduction
+  url: https://eromanga-sensei.com/introduction/
+  supports: 小说与插画的合作关系
+- title: A-1 Pictures 官方作品页
+  url: https://a1p.jp/works/eromanga/
+  supports: 动画配音
+voice: 藤田茜（动画版）
+character: true
+layout: post
+categories:
+- 妹妹
+- 义妹
+verified_on: '2026-11-18'
+description: 《埃罗芒阿老师》 · 义妹
+date: 2026-11-18 00:00:00 +0800
+---
+和泉正宗没有血缘关系的妹妹，平时几乎不离开自己的房间。她以笔名“埃罗芒阿老师”从事插画工作，而正宗是轻小说作家。两人在日常生活之外，也因小说与插画的合作建立起联系。
+
+{% include character-profile.html %}
+
+## 资料来源
+
+{% include character-sources.html %}
