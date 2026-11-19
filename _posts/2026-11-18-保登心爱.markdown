@@ -22,6 +22,13 @@ categories:
 date: 2026-11-18 00:30:00 +0800
 verified_on: '2026-11-18'
 description: 《请问您今天要来点兔子吗？》 · 实妹
+image:
+  path: /assets/images/characters/cocoa-hoto.webp
+  alt: 保登心爱（请问您今天要来点兔子吗？）角色图
+  thumbnail: /assets/images/characters/cocoa-hoto-thumb.webp
+  source: https://www.gochiusa.com/chara/cocoa.html
+  source_name: 动画官网角色图
+  original: https://www.gochiusa.com/core_sys/images/main/cont/chara/cocoa_body.png
 ---
 可可娅是保登家四个孩子中最年幼的一位，姐姐摩卡在老家的面包店工作，也一直关心妹妹。虽然可可娅常想成为别人可靠的姐姐，她在自己家中确实处于妹妹的位置。
 

@@ -29,6 +29,13 @@ categories:
 date: 2026-11-18 00:30:00 +0800
 verified_on: '2026-11-18'
 description: 《我们没有翅膀》 · 义妹
+image:
+  path: /assets/images/characters/kobato-haneda.webp
+  alt: 羽田小鸠（我们没有翅膀）角色图
+  thumbnail: /assets/images/characters/kobato-haneda-thumb.webp
+  source: https://www.marv.jp/special/oretsuba/chara.html
+  source_name: Marvelous 动画官方角色介绍（角色配图）
+  original: https://www.marv.jp/special/oretsuba/img/chara/chara4.jpg
 ---
 羽田鹰志的义妹。她很怕生，与不熟悉的人相处时容易紧张，看起来沉默，内心却在努力寻找合适的话题。这位小鸠出自《我们没有翅膀》，与《我的朋友很少》的羽濑川小鸠是不同角色。
 

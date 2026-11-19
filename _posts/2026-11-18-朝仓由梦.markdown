@@ -29,6 +29,13 @@ categories:
 date: 2026-11-18 00:30:00 +0800
 verified_on: '2026-11-18'
 description: 《D.C.II～初音岛II～》 · 实妹
+image:
+  path: /assets/images/characters/yume-asakura.webp
+  alt: 朝仓由梦（D.C.II～初音岛II～）角色图
+  thumbnail: /assets/images/characters/yume-asakura-thumb.webp
+  source: https://bangumi.tv/character/1190
+  source_name: Bangumi 人物条目配图（社区资料）
+  original: https://lain.bgm.tv/r/400/pic/crt/l/62/b6/1190_crt_0XFdI.jpg
 ---
 朝仓音姬的妹妹，也是与樱内义之一起成长的主要角色。她会称义之为哥哥，但这种共同生活中的称呼与她和音姬之间的亲姊妹关系需要分开描述。条目先按明确的朝仓姊妹关系归类。
 

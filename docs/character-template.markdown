@@ -15,8 +15,13 @@ tags: [日漫, 作品名]
 verified_on: '2026-11-18'
 description: 一句话介绍角色及其妹妹关系。
 # voice: 演员署名（明确写出游戏或动画版本）
-# image:
-#   path: /assets/images/作品名/角色名.jpg
+image:
+  path: /assets/images/characters/character-name.webp
+  alt: 角色中文名（作品名）角色图
+  thumbnail: /assets/images/characters/character-name-thumb.webp
+  source: https://example.com/character/
+  source_name: 作品官网角色图
+  original: https://example.com/images/character.png
 sources:
   - title: 官网角色介绍
     url: https://example.com/character/

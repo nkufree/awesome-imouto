@@ -24,6 +24,13 @@ categories:
 verified_on: '2026-11-18'
 description: 《干物妹！小埋》 · 实妹
 date: 2026-11-18 00:00:00 +0800
+image:
+  path: /assets/images/characters/umaru-doma.webp
+  alt: 土间埋（干物妹！小埋）角色图
+  thumbnail: /assets/images/characters/umaru-doma-thumb.webp
+  source: https://www.umaru-ani.me/character/
+  source_name: 《干物妹！小埋 R》官方角色页（角色配图）
+  original: https://www.umaru-ani.me/img/character/chara1_stand.png
 ---
 与哥哥太平一起生活的高中女生。在外是成绩、运动与外表都出众的优等生，回家后则沉浸在漫画、动画、游戏和可乐之中。哥哥既要照顾她的生活，也会提醒她收敛懒散的习惯。
 

@@ -23,6 +23,13 @@ categories:
 date: 2026-11-18 00:30:00 +0800
 verified_on: '2026-11-18'
 description: 《伪恋》 · 实妹
+image:
+  path: /assets/images/characters/haru-onodera.webp
+  alt: 小野寺春（伪恋）角色图
+  thumbnail: /assets/images/characters/haru-onodera-thumb.webp
+  source: https://www.nisekoi.jp/sp/chara/
+  source_name: 《伪恋：》官方 Character（角色配图）
+  original: https://www.nisekoi.jp/sp/assets/img/chara/07/main.png
 ---
 小野寺小咲的妹妹，十分喜欢姐姐。动画第二季的官方介绍明确将她写作小咲的妹妹，并提到她对一条乐抱有敌意。她不是乐的妹妹，条目按小野寺姊妹关系收录。
 

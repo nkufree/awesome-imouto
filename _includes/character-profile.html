@@ -1,3 +1,7 @@
+{% if page.image.source %}
+<p class="character-image-credit">配图来源：<a href="{{ page.image.source | escape }}">{{ page.image.source_name | escape }}</a> · <a href="{{ page.image.original | escape }}">原图</a>。图片版权归原权利人所有。</p>
+{% endif %}
+
 ## 角色资料
 
 | 项目 | 内容 |

@@ -24,6 +24,13 @@ categories:
 date: 2026-11-18 00:30:00 +0800
 verified_on: '2026-11-18'
 description: 《星空的记忆》 · 实妹
+image:
+  path: /assets/images/characters/chinami-kogasaka.webp
+  alt: 小河坂千波（星空的记忆）角色图
+  thumbnail: /assets/images/characters/chinami-kogasaka-thumb.webp
+  source: https://bgm.tv/character/11006
+  source_name: Bangumi 人物条目配图（社区资料）
+  original: https://lain.bgm.tv/r/400/pic/crt/l/1b/18/11006_crt_EV6T6.jpg
 ---
 小河坂洋的妹妹，与哥哥一起转入故乡的学园。她说话直率、精力充沛，关心哥哥，也常成为日常中的热闹源头。不同版本的配音署名需要分别核对，本次暂不混写。
 

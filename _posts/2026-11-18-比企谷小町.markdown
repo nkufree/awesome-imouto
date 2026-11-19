@@ -22,6 +22,13 @@ categories:
 verified_on: '2026-11-18'
 description: 《我的青春恋爱物语果然有问题。》 · 实妹
 date: 2026-11-18 00:00:00 +0800
+image:
+  path: /assets/images/characters/komachi-hikigaya.webp
+  alt: 比企谷小町（我的青春恋爱物语果然有问题。）角色图
+  thumbnail: /assets/images/characters/komachi-hikigaya-thumb.webp
+  source: https://www.tbs.co.jp/anime/oregairu/character/chara05.html
+  source_name: TBS《俺ガイル 完》官方角色页（角色配图）
+  original: https://www.tbs.co.jp/anime/oregairu/character/img/chara_img_05.jpg
 ---
 比企谷八幡的妹妹。动画《完》的官方角色介绍以中学三年级时期为基准。与以奉侍部为中心的校园人物不同，小町提供了从家庭生活认识八幡的视角。
 

@@ -25,6 +25,13 @@ categories:
 verified_on: '2026-11-18'
 description: 《D.C.～初音岛～》 · 义妹
 date: 2026-11-18 00:00:00 +0800
+image:
+  path: /assets/images/characters/nemu-asakura.webp
+  alt: 朝仓音梦（D.C.～初音岛～）角色图
+  thumbnail: /assets/images/characters/nemu-asakura-thumb.webp
+  source: https://bgm.tv/character/20250
+  source_name: Bangumi 人物条目配图（社区资料）
+  original: https://lain.bgm.tv/r/400/pic/crt/l/e1/d5/20250_crt_wYB98.jpg?r=1496766642
 ---
 幼时失去双亲后被朝仓家收养，与朝仓纯一一起长大的义妹。她在学园中很受欢迎，却也会在纯一面前表现出与对待其他人时不同的一面。此条目的简介与配音采用 2003 年电视动画资料。
 

@@ -23,6 +23,13 @@ categories:
 date: 2026-11-18 00:30:00 +0800
 verified_on: '2026-11-18'
 description: 《天神乱漫 LUCKY or UNLUCKY!?》 · 血缘待核
+image:
+  path: /assets/images/characters/sana-chitose.webp
+  alt: 千岁佐奈（天神乱漫 LUCKY or UNLUCKY!?）角色图
+  thumbnail: /assets/images/characters/sana-chitose-thumb.webp
+  source: https://legacy.yuzu-soft.com/tenshin/
+  source_name: 柚子社《天神乱漫》官网（角色配图）
+  original: https://legacy.yuzu-soft.com/tenshin/images/chara/chara03.jpg
 ---
 千岁春树的妹妹，负责千岁家不少料理、洗衣等家务。她很关心容易遭遇不幸的哥哥，经常收集护身符送给他；平时温和，但涉及哥哥时也会展现出主动的一面。
 

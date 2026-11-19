@@ -24,6 +24,13 @@ categories:
 date: 2026-11-18 00:30:00 +0800
 verified_on: '2026-11-18'
 description: 《干物妹！小埋》 · 实妹
+image:
+  path: /assets/images/characters/hikari-kongo.webp
+  alt: 金刚光（干物妹！小埋）角色图
+  thumbnail: /assets/images/characters/hikari-kongo-thumb.webp
+  source: https://www.umaru-ani.me/character/
+  source_name: 《干物妹！小埋 R》官方 Character（角色配图）
+  original: https://www.umaru-ani.me/img/character/chara9_stand.png
 ---
 金刚叶课长的妹妹，就读于荒矢田高中的特进班。她十分亲近太平，称他为“哥哥”，但这是一种称呼；官网明确的亲属关系是她与叶之间的姊妹关系。
 

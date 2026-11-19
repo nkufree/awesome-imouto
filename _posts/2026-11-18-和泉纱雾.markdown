@@ -30,6 +30,13 @@ categories:
 verified_on: '2026-11-18'
 description: 《埃罗芒阿老师》 · 义妹
 date: 2026-11-18 00:00:00 +0800
+image:
+  path: /assets/images/characters/sagiri-izumi.webp
+  alt: 和泉纱雾（埃罗芒阿老师）角色图
+  thumbnail: /assets/images/characters/sagiri-izumi-thumb.webp
+  source: https://eromanga-sensei.com/character/
+  source_name: 动画官网角色图
+  original: https://eromanga-sensei.com/assets/img/character/chara_02.png
 ---
 和泉正宗没有血缘关系的妹妹，平时几乎不离开自己的房间。她以笔名“埃罗芒阿老师”从事插画工作，而正宗是轻小说作家。两人在日常生活之外，也因小说与插画的合作建立起联系。
 

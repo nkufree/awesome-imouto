@@ -25,6 +25,13 @@ categories:
 date: 2026-11-18 00:30:00 +0800
 verified_on: '2026-11-18'
 description: 《Code Geass 反叛的鲁路修》 · 实妹
+image:
+  path: /assets/images/characters/nunnally.webp
+  alt: 娜娜莉（Code Geass 反叛的鲁路修）角色图
+  thumbnail: /assets/images/characters/nunnally-thumb.webp
+  source: https://geass.jp/R-geass/character.php
+  source_name: 《复活的鲁路修》官方人物页（角色配图）
+  original: https://geass.jp/R-geass/img/about/img13.jpg
 ---
 鲁路修的妹妹。她因母亲遇袭的事件而失去双腿的行动能力，是鲁路修十分重视的家人。不同电视与剧场版篇章对她的身份、处境有进一步发展，这里仅记录基础亲属关系。
 

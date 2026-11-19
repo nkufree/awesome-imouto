@@ -27,9 +27,14 @@ categories:
 verified_on: '2026-11-18'
 description: 《游戏人生》 · 义妹
 date: 2025-08-30 12:53:00 +0800
-image:
-  path: /assets/images/游戏人生/白.jpg
 last_modified_at: 2026-11-18 00:00:00 +0800
+image:
+  path: /assets/images/characters/shiro.webp
+  alt: 白（游戏人生）角色图
+  thumbnail: /assets/images/characters/shiro-thumb.webp
+  source: https://ngnl.jp/tv/character/chara02.html
+  source_name: 动画官网角色图
+  original: https://ngnl.jp/tv/images/img-character-siro.png
 ---
 与空组成玩家组合“空白”的天才少女，擅长计算与逻辑推演。兄妹二人以无败的游戏成绩闻名，并被特图带到一切由游戏决定的异世界。白与空没有血缘关系，本站据此将她归入义妹。
 

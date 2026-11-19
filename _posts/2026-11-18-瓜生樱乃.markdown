@@ -28,6 +28,13 @@ categories:
 date: 2026-11-18 00:30:00 +0800
 verified_on: '2026-11-18'
 description: 《纯白交响曲》 · 义妹
+image:
+  path: /assets/images/characters/sakuno-uryu.webp
+  alt: 瓜生樱乃（纯白交响曲）角色图
+  thumbnail: /assets/images/characters/sakuno-uryu-thumb.webp
+  source: https://bgm.tv/character/10712
+  source_name: Bangumi 人物条目配图（社区资料）
+  original: https://lain.bgm.tv/r/400/pic/crt/l/f0/42/10712_crt_55ZDt.jpg
 ---
 瓜生新吾的义妹，性格安静、说话不多，但偶尔会给出很锐利的吐槽。她擅长料理，在家中负责炊事，是与哥哥一起经历学园统合生活的角色。
 

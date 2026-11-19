@@ -27,6 +27,13 @@ categories:
 date: 2026-11-18 00:30:00 +0800
 verified_on: '2026-11-18'
 description: 《Love Live! Sunshine!!》 · 实妹
+image:
+  path: /assets/images/characters/ruby-kurosawa.webp
+  alt: 黑泽露比（Love Live! Sunshine!!）角色图
+  thumbnail: /assets/images/characters/ruby-kurosawa-thumb.webp
+  source: https://www.animatetimes.com/news/details.php?id=1461727447
+  source_name: Animate Times 动画官方角色图报道
+  original: https://img.animatetimes.com/news/visual/2016/1461727447_1_28_7fc3906374343ebd4fdfec1b4186939f.jpg
 ---
 Aqours 成员，黑泽黛雅的妹妹，从小向往偶像活动。她与姐姐及其他伙伴一起参与学园偶像活动；此处按黑泽姊妹的亲属关系收录。
 

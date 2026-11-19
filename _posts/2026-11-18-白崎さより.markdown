@@ -23,6 +23,13 @@ categories:
 date: 2026-11-18 00:30:00 +0800
 verified_on: '2026-11-18'
 description: 《大图书馆的牧羊人》 · 实妹
+image:
+  path: /assets/images/characters/sayori-shirasaki.webp
+  alt: 白崎さより（大图书馆的牧羊人）角色图
+  thumbnail: /assets/images/characters/sayori-shirasaki-thumb.webp
+  source: https://aria-soft.com/daito_ps4/character10.html
+  source_name: PS4 版官网角色图
+  original: https://aria-soft.com/daito_ps4/img/character/c10_bk.png
 ---
 白崎绪美小两岁的妹妹。她曾因体弱长期住院，之后进入汐美学园；姐姐希望让学园成为更有趣的地方，也与妹妹的经历有关。她性格可靠，有时还会关心姐姐的恋爱。
 

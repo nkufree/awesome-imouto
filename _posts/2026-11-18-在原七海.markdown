@@ -23,6 +23,13 @@ categories:
 verified_on: '2026-11-18'
 description: 《RIDDLE JOKER》 · 义妹
 date: 2026-11-18 00:00:00 +0800
+image:
+  path: /assets/images/characters/nanami-arihara.webp
+  alt: 在原七海（RIDDLE JOKER）角色图
+  thumbnail: /assets/images/characters/nanami-arihara-thumb.webp
+  source: https://hikarifield.co.jp/riddle/character.html
+  source_name: HIKARI FIELD 官方中文角色介绍（角色配图）
+  original: https://hikarifield.co.jp/riddle/images/character/chara02/cos01.png
 ---
 在原晓没有血缘关系的妹妹，与晓同被在原隆之介收养。她擅长家务，刚认识别人时比较怕生，熟悉之后则会变得亲近。在组织中负责支援工作，在生活和任务两方面都是哥哥的重要搭档。
 

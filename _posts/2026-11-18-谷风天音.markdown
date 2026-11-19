@@ -23,6 +23,13 @@ categories:
 date: 2026-11-18 00:30:00 +0800
 verified_on: '2026-11-18'
 description: 《天使☆嚣嚣 RE-BOOT!》 · 血缘待核
+image:
+  path: /assets/images/characters/amane-tanikaze.webp
+  alt: 谷风天音（天使☆嚣嚣 RE-BOOT!）角色图
+  thumbnail: /assets/images/characters/amane-tanikaze-thumb.webp
+  source: https://www.yuzu-soft.com/products/ten_sz/
+  source_name: 柚子社《天使騒々 RE-BOOT!》官网（角色配图）
+  original: https://www.yuzu-soft.com/products/ten_sz/images/mainchara/chara02/cos01.png
 ---
 谷风李空的妹妹，性格开朗，但也有些怕生。她热衷游戏和多人对战，常因玩得太投入而熬夜，不太擅长早起；对哥哥说话有点不客气，兄妹关系却并不坏。
 

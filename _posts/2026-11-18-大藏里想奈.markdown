@@ -27,6 +27,13 @@ categories:
 date: 2026-11-18 00:30:00 +0800
 verified_on: '2026-11-18'
 description: 《近月少女的礼仪／少女理论及其周边》 · 实妹
+image:
+  path: /assets/images/characters/resona-okura.webp
+  alt: 大藏里想奈（近月少女的礼仪／少女理论及其周边）角色图
+  thumbnail: /assets/images/characters/resona-okura-thumb.webp
+  source: https://project-navel.com/tsukiniyorisou/chara14_resona.html
+  source_name: Navel 官方里想奈角色页（角色配图）
+  original: https://project-navel.com/tsukiniyorisou/_img/tsuki_chara14_resona.jpg
 ---
 大藏游星小一岁的同父异母妹妹。她不太擅长交际，在家族面前维持大小姐的举止，私下则比较随意，也喜欢上网。她畏惧严厉的长兄衣远，却与游星十分亲近。
 

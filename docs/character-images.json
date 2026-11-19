@@ -1,0 +1,819 @@
+[
+  {
+    "character": "上杉濑叶",
+    "asset": "/assets/images/characters/raiha-uesugi.webp",
+    "thumbnail": "/assets/images/characters/raiha-uesugi-thumb.webp",
+    "source_name": "TBS 动画官网追加角色公告（角色配图）",
+    "source_page": "https://www.tbs.co.jp/anime/5hanayome/1st/news/news20181126_02.html",
+    "original_image": "https://www.tbs.co.jp/anime/5hanayome/1st/news/img/news20181126_03.png",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "64fe5168221d7cd63ba46acbe0a666bd1a90c59798392df478d9a0ebfcfe955e",
+    "original_dimensions": [
+      530,
+      340
+    ],
+    "display_dimensions": [
+      203,
+      340
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "乙坂步未",
+    "asset": "/assets/images/characters/ayumi-otosaka.webp",
+    "thumbnail": "/assets/images/characters/ayumi-otosaka-thumb.webp",
+    "source_name": "Charlotte 官方手机版 Character（角色配图）",
+    "source_page": "https://charlotte-anime.jp/sp/character/",
+    "original_image": "https://charlotte-anime.jp/sp/assets/img/character/img_06.png",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "582a11db5fa1f42f3ff7b8bff7f408be61e2c88cd8595299c8838af3c9ed3832",
+    "original_dimensions": [
+      622,
+      848
+    ],
+    "display_dimensions": [
+      485,
+      682
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "五河琴里",
+    "asset": "/assets/images/characters/kotori-itsuka.webp",
+    "thumbnail": "/assets/images/characters/kotori-itsuka-thumb.webp",
+    "source_name": "动画第三季官方琴里角色页（角色配图）",
+    "source_page": "https://date-a-live-anime.com/character/character_kotori.html",
+    "original_image": "https://date-a-live-anime.com/common/images/2nd/character/character_kotori.png",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "581de166353a609157ef79f55544002b337031e4d3e5f87ca5b06195bb88dfb3",
+    "original_dimensions": [
+      700,
+      1211
+    ],
+    "display_dimensions": [
+      554,
+      1200
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "保登心爱",
+    "asset": "/assets/images/characters/cocoa-hoto.webp",
+    "thumbnail": "/assets/images/characters/cocoa-hoto-thumb.webp",
+    "source_name": "动画官网角色图",
+    "source_page": "https://www.gochiusa.com/chara/cocoa.html",
+    "original_image": "https://www.gochiusa.com/core_sys/images/main/cont/chara/cocoa_body.png",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "bffc0490fd6cda6b6f3b0a1939ad943f2e491931f80cf9c9e58bcf0bb1244969",
+    "original_dimensions": [
+      382,
+      687
+    ],
+    "display_dimensions": [
+      382,
+      685
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "内藤舞亚",
+    "asset": "/assets/images/characters/maia-naitou.webp",
+    "thumbnail": "/assets/images/characters/maia-naitou-thumb.webp",
+    "source_name": "Purple Software《Hapymaher REGRET END》官方介绍（角色配图）",
+    "source_page": "https://www.purplesoftware.jp/products/hapymaher-re/hapymaher.html",
+    "original_image": "https://www.purplesoftware.jp/products/hapymaher-re/img/product/char-mai_l.png",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "d657714aabdb33343b7e884da332d67f4b48ee6be4ab5a4b2f021c9936f82357",
+    "original_dimensions": [
+      1440,
+      1200
+    ],
+    "display_dimensions": [
+      1200,
+      1119
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "千岁佐奈",
+    "asset": "/assets/images/characters/sana-chitose.webp",
+    "thumbnail": "/assets/images/characters/sana-chitose-thumb.webp",
+    "source_name": "柚子社《天神乱漫》官网（角色配图）",
+    "source_page": "https://legacy.yuzu-soft.com/tenshin/",
+    "original_image": "https://legacy.yuzu-soft.com/tenshin/images/chara/chara03.jpg",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "383dcb653f385d2efc545e9452fed47303bc4dee12b0a002e457d857a254342b",
+    "original_dimensions": [
+      1200,
+      800
+    ],
+    "display_dimensions": [
+      1200,
+      800
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "司波深雪",
+    "asset": "/assets/images/characters/miyuki-shiba.webp",
+    "thumbnail": "/assets/images/characters/miyuki-shiba-thumb.webp",
+    "source_name": "《魔法科高校的优等生》官方角色页（角色配图）",
+    "source_page": "https://mahouka-yuutousei.jp/character/",
+    "original_image": "https://mahouka-yuutousei.jp/assets/img/character/img_miyuki.png",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "59a85efaf07f7fef5a516b3952a3c5f09924e9c6b99b4e9a3eb886f04e181698",
+    "original_dimensions": [
+      750,
+      1440
+    ],
+    "display_dimensions": [
+      477,
+      1200
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "周防有希",
+    "asset": "/assets/images/characters/yuki-suo.webp",
+    "thumbnail": "/assets/images/characters/yuki-suo-thumb.webp",
+    "source_name": "动画官方有希角色页（日文）（角色配图）",
+    "source_page": "https://roshidere.com/chara/yuki.html?lang=ja",
+    "original_image": "https://roshidere.com/core_sys/images/main/cont/chara/yuki_stand.png",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "ff7f8d39a504bc8f736330d4dd072028cee92056e9a966f4767130704f1ab67a",
+    "original_dimensions": [
+      350,
+      897
+    ],
+    "display_dimensions": [
+      264,
+      803
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "和泉妃爱",
+    "asset": "/assets/images/characters/hiyori-izumi.webp",
+    "thumbnail": "/assets/images/characters/hiyori-izumi-thumb.webp",
+    "source_name": "主机版发行方官方 Character（角色配图）",
+    "source_page": "https://imel.co.jp/hamidashi/character",
+    "original_image": "https://imel.co.jp/hamidashi/wp/wp-content/themes/hamidashi/img/character/hiyori_pic.png",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "4d90774bdeb0fe0f67e2a9722195d795cb5c07b33f05d30201a0baccae24099c",
+    "original_dimensions": [
+      458,
+      1194
+    ],
+    "display_dimensions": [
+      457,
+      1193
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "和泉纱雾",
+    "asset": "/assets/images/characters/sagiri-izumi.webp",
+    "thumbnail": "/assets/images/characters/sagiri-izumi-thumb.webp",
+    "source_name": "动画官网角色图",
+    "source_page": "https://eromanga-sensei.com/character/",
+    "original_image": "https://eromanga-sensei.com/assets/img/character/chara_02.png",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "0b3cf5a3f881b37f79a839013eebf91452932fec80450259a49e56d0820025a3",
+    "original_dimensions": [
+      400,
+      917
+    ],
+    "display_dimensions": [
+      268,
+      814
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "土间埋",
+    "asset": "/assets/images/characters/umaru-doma.webp",
+    "thumbnail": "/assets/images/characters/umaru-doma-thumb.webp",
+    "source_name": "《干物妹！小埋 R》官方角色页（角色配图）",
+    "source_page": "https://www.umaru-ani.me/character/",
+    "original_image": "https://www.umaru-ani.me/img/character/chara1_stand.png",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "06676469c23bb7f26e5bf05e58ef515aff81380315a21de8a0a2e9624169b465",
+    "original_dimensions": [
+      651,
+      1150
+    ],
+    "display_dimensions": [
+      453,
+      1020
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "在原七海",
+    "asset": "/assets/images/characters/nanami-arihara.webp",
+    "thumbnail": "/assets/images/characters/nanami-arihara-thumb.webp",
+    "source_name": "HIKARI FIELD 官方中文角色介绍（角色配图）",
+    "source_page": "https://hikarifield.co.jp/riddle/character.html",
+    "original_image": "https://hikarifield.co.jp/riddle/images/character/chara02/cos01.png",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "431cbd77bf193d8b824c4a993a5916f0df517bad5b1f6cece2e24d43a83f5207",
+    "original_dimensions": [
+      940,
+      700
+    ],
+    "display_dimensions": [
+      189,
+      555
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "大藏里想奈",
+    "asset": "/assets/images/characters/resona-okura.webp",
+    "thumbnail": "/assets/images/characters/resona-okura-thumb.webp",
+    "source_name": "Navel 官方里想奈角色页（角色配图）",
+    "source_page": "https://project-navel.com/tsukiniyorisou/chara14_resona.html",
+    "original_image": "https://project-navel.com/tsukiniyorisou/_img/tsuki_chara14_resona.jpg",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "bc4afa7d2b65836742461a8756bdd7eabe5ce17f80843e63d829b3b3065a80ce",
+    "original_dimensions": [
+      900,
+      616
+    ],
+    "display_dimensions": [
+      900,
+      616
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "娜娜莉",
+    "asset": "/assets/images/characters/nunnally.webp",
+    "thumbnail": "/assets/images/characters/nunnally-thumb.webp",
+    "source_name": "《复活的鲁路修》官方人物页（角色配图）",
+    "source_page": "https://geass.jp/R-geass/character.php",
+    "original_image": "https://geass.jp/R-geass/img/about/img13.jpg",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "e2e71c105e9b945ab50ddc0ed80b0c77ceed109ad39f8cf2a30a0cbfbaf2f92b",
+    "original_dimensions": [
+      490,
+      600
+    ],
+    "display_dimensions": [
+      490,
+      600
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "小河坂千波",
+    "asset": "/assets/images/characters/chinami-kogasaka.webp",
+    "thumbnail": "/assets/images/characters/chinami-kogasaka-thumb.webp",
+    "source_name": "Bangumi 人物条目配图（社区资料）",
+    "source_page": "https://bgm.tv/character/11006",
+    "original_image": "https://lain.bgm.tv/r/400/pic/crt/l/1b/18/11006_crt_EV6T6.jpg",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "3ea44e31ea2f0d6bf13294b17f4b4a433d5b7b424f0dfbc49b5916b310855545",
+    "original_dimensions": [
+      250,
+      300
+    ],
+    "display_dimensions": [
+      250,
+      300
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "小野寺春",
+    "asset": "/assets/images/characters/haru-onodera.webp",
+    "thumbnail": "/assets/images/characters/haru-onodera-thumb.webp",
+    "source_name": "《伪恋：》官方 Character（角色配图）",
+    "source_page": "https://www.nisekoi.jp/sp/chara/",
+    "original_image": "https://www.nisekoi.jp/sp/assets/img/chara/07/main.png",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "3ced9df3e308038aac67630675424548fc53b54ff7a076093f4cdffabe707374",
+    "original_dimensions": [
+      560,
+      976
+    ],
+    "display_dimensions": [
+      330,
+      793
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "平泽忧",
+    "asset": "/assets/images/characters/ui-hirasawa.webp",
+    "thumbnail": "/assets/images/characters/ui-hirasawa-thumb.webp",
+    "source_name": "TBS《轻音少女》官方忧角色页（角色配图）",
+    "source_page": "https://www.tbs.co.jp/anime/k-on/k-on_tv/chara/chara06.html",
+    "original_image": "https://www.tbs.co.jp/anime/k-on/k-on_tv/chara/images/chara_photo06_1.gif",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "bd8bde5b321349704eba279404a82491779a6c9a84b2783e50e0d72b07bfa323",
+    "original_dimensions": [
+      330,
+      400
+    ],
+    "display_dimensions": [
+      330,
+      393
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "新海天",
+    "asset": "/assets/images/characters/sora-niimi.webp",
+    "thumbnail": "/assets/images/characters/sora-niimi-thumb.webp",
+    "source_name": "9-nine- 官方角色页（角色配图）",
+    "source_page": "https://9-nine-project.com/character/sora/",
+    "original_image": "https://9-nine-project.com/wp/wp-content/themes/nine-project/assets/images/pc/character/img_sora_01.png",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "7a12ec184d979d01d174fb854e48f9348cc0027eab316afc4e8c9a65d573715e",
+    "original_dimensions": [
+      375,
+      983
+    ],
+    "display_dimensions": [
+      375,
+      983
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "春原芽衣",
+    "asset": "/assets/images/characters/mei-sunohara.webp",
+    "thumbnail": "/assets/images/characters/mei-sunohara-thumb.webp",
+    "source_name": "TBS《CLANNAD AFTER STORY》官方芽衣角色页（角色配图）",
+    "source_page": "https://www.tbs.co.jp/clannad/04chara/chara11.html",
+    "original_image": "https://www.tbs.co.jp/clannad/04chara/images/chara11.jpg",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "345065b606c9f2ff16f6abb6a610960283a6eed4b6e47446e8c08543826ab0cd",
+    "original_dimensions": [
+      177,
+      450
+    ],
+    "display_dimensions": [
+      177,
+      450
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "春日野穹",
+    "asset": "/assets/images/characters/sora-kasugano.webp",
+    "thumbnail": "/assets/images/characters/sora-kasugano-thumb.webp",
+    "source_name": "KING RECORDS 动画官方角色页（角色配图）",
+    "source_page": "https://king-cr.jp/special/yosuganosora/character/",
+    "original_image": "https://king-cr.jp/special/yosuganosora/images/chara/i_sora.png",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "e57d7f4b4eb93ce151a095bd0a7a125c6e4b87bbceb41f446a851e45be704f6d",
+    "original_dimensions": [
+      600,
+      600
+    ],
+    "display_dimensions": [
+      600,
+      600
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "朝仓由梦",
+    "asset": "/assets/images/characters/yume-asakura.webp",
+    "thumbnail": "/assets/images/characters/yume-asakura-thumb.webp",
+    "source_name": "Bangumi 人物条目配图（社区资料）",
+    "source_page": "https://bangumi.tv/character/1190",
+    "original_image": "https://lain.bgm.tv/r/400/pic/crt/l/62/b6/1190_crt_0XFdI.jpg",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "ee001f34d98780fe4e8227eb4bc6a5a77e1a0e5acffb96f2ce124a448bb5da67",
+    "original_dimensions": [
+      338,
+      788
+    ],
+    "display_dimensions": [
+      338,
+      788
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "朝仓音梦",
+    "asset": "/assets/images/characters/nemu-asakura.webp",
+    "thumbnail": "/assets/images/characters/nemu-asakura-thumb.webp",
+    "source_name": "Bangumi 人物条目配图（社区资料）",
+    "source_page": "https://bgm.tv/character/20250",
+    "original_image": "https://lain.bgm.tv/r/400/pic/crt/l/e1/d5/20250_crt_wYB98.jpg?r=1496766642",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "bbd9d5ff2867fff94a9a5c668a00fb3c2bbc269faa3abf52a920510bbdc9e604",
+    "original_dimensions": [
+      240,
+      480
+    ],
+    "display_dimensions": [
+      240,
+      480
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "朝雾麻衣",
+    "asset": "/assets/images/characters/mai-asagiri.webp",
+    "thumbnail": "/assets/images/characters/mai-asagiri-thumb.webp",
+    "source_name": "TBS 动画官方麻衣角色页（角色配图）",
+    "source_page": "https://www.tbs.co.jp/yoakena/04chara/mai.html",
+    "original_image": "https://www.tbs.co.jp/yoakena/04chara/images/mai-body.gif",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "72218c39f8a44c650a27fc8095cdf0e5960e4420e5f9afc2983bf340b71e97b8",
+    "original_dimensions": [
+      142,
+      401
+    ],
+    "display_dimensions": [
+      116,
+      361
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "木之本樱",
+    "asset": "/assets/images/characters/sakura-kinomoto.webp",
+    "thumbnail": "/assets/images/characters/sakura-kinomoto-thumb.webp",
+    "source_name": "作品官网剧情与人物介绍（角色配图）",
+    "source_page": "https://ccsakura-official.com/intro/index2.html",
+    "original_image": "https://ccsakura-official.com/core_sys/images/contents/00000007/block/00000135/00000396.jpg?1711744472",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "cc03312b662f0c2a7e20b1873b36bb2b5f30edd22daa77f0ff6d28de9258986a",
+    "original_dimensions": [
+      500,
+      500
+    ],
+    "display_dimensions": [
+      500,
+      500
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "枣铃",
+    "asset": "/assets/images/characters/rin-natsume.webp",
+    "thumbnail": "/assets/images/characters/rin-natsume-thumb.webp",
+    "source_name": "Visual Arts 官方角色图",
+    "source_page": "https://sp.v-motto.jp/d/pc/appli/lbss_s/index.php",
+    "original_image": "https://sp.v-motto.jp/d/pc/appli/lbss_s/img/character03.jpg",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "47733c89ac2119433aa82418e91df95cd73f32061a2a49cd148c6893f9b915bd",
+    "original_dimensions": [
+      145,
+      125
+    ],
+    "display_dimensions": [
+      145,
+      125
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "桐谷直叶",
+    "asset": "/assets/images/characters/suguha-kirigaya.webp",
+    "thumbnail": "/assets/images/characters/suguha-kirigaya-thumb.webp",
+    "source_name": "动画 Fairy Dance 篇官方角色页（角色配图）",
+    "source_page": "https://www.swordart-online.net/sp/fairy/character/chara02.html",
+    "original_image": "https://www.swordart-online.net/sp/fairy/character/img/chara02.jpg",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "7b967801d7d6d16c40af89e0eb75a11f9689947bb8b0e5ebdcaedc7558e5474f",
+    "original_dimensions": [
+      600,
+      500
+    ],
+    "display_dimensions": [
+      600,
+      500
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "梓川枫",
+    "asset": "/assets/images/characters/kaede-azusagawa.webp",
+    "thumbnail": "/assets/images/characters/kaede-azusagawa-thumb.webp",
+    "source_name": "电视动画官方 Character（角色配图）",
+    "source_page": "https://ao-buta.com/tv/character/",
+    "original_image": "https://ao-buta.com/tv/assets/img/chara/sp/06/img_chara_main_front.png",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "402defef206b6d4d946b843179005ff3c11f91a6b9e074d2e73006a23f278620",
+    "original_dimensions": [
+      750,
+      920
+    ],
+    "display_dimensions": [
+      299,
+      874
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "比企谷小町",
+    "asset": "/assets/images/characters/komachi-hikigaya.webp",
+    "thumbnail": "/assets/images/characters/komachi-hikigaya-thumb.webp",
+    "source_name": "TBS《俺ガイル 完》官方角色页（角色配图）",
+    "source_page": "https://www.tbs.co.jp/anime/oregairu/character/chara05.html",
+    "original_image": "https://www.tbs.co.jp/anime/oregairu/character/img/chara_img_05.jpg",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "8c21b2e0e530b3e0fa9735f021570ef38b8516d8752219045021a1d94e323622",
+    "original_dimensions": [
+      1340,
+      754
+    ],
+    "display_dimensions": [
+      1200,
+      675
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "浅叶小奈美",
+    "asset": "/assets/images/characters/konami-asaba.webp",
+    "thumbnail": "/assets/images/characters/konami-asaba-thumb.webp",
+    "source_name": "PS4 版发行方角色图",
+    "source_page": "https://dramaticcreate.com/sakusaku/chara.html",
+    "original_image": "https://dramaticcreate.com/sakusaku/images/chara/chara04.jpg",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "1b9dfce835bb9566ded4b923b0c6c07ea81be7cf554ea8091526ddc2860ea67a",
+    "original_dimensions": [
+      700,
+      500
+    ],
+    "display_dimensions": [
+      700,
+      500
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "瓜生樱乃",
+    "asset": "/assets/images/characters/sakuno-uryu.webp",
+    "thumbnail": "/assets/images/characters/sakuno-uryu-thumb.webp",
+    "source_name": "Bangumi 人物条目配图（社区资料）",
+    "source_page": "https://bgm.tv/character/10712",
+    "original_image": "https://lain.bgm.tv/r/400/pic/crt/l/f0/42/10712_crt_55ZDt.jpg",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "5fb636eed12f1dbaf96d010e289dc61a7af30a457179ffde38d91aa8c5068fe2",
+    "original_dimensions": [
+      400,
+      560
+    ],
+    "display_dimensions": [
+      400,
+      560
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "白",
+    "asset": "/assets/images/characters/shiro.webp",
+    "thumbnail": "/assets/images/characters/shiro-thumb.webp",
+    "source_name": "动画官网角色图",
+    "source_page": "https://ngnl.jp/tv/character/chara02.html",
+    "original_image": "https://ngnl.jp/tv/images/img-character-siro.png",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "44c46b1e43a998564204cbd2ddde9b48bd5c8c4d40d964019205644866add317",
+    "original_dimensions": [
+      740,
+      658
+    ],
+    "display_dimensions": [
+      740,
+      619
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "白崎さより",
+    "asset": "/assets/images/characters/sayori-shirasaki.webp",
+    "thumbnail": "/assets/images/characters/sayori-shirasaki-thumb.webp",
+    "source_name": "PS4 版官网角色图",
+    "source_page": "https://aria-soft.com/daito_ps4/character10.html",
+    "original_image": "https://aria-soft.com/daito_ps4/img/character/c10_bk.png",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "419ddc1eb103714a5b51388b05ffd1236f287cc375c5ad3a32bc7c088441eaf4",
+    "original_dimensions": [
+      1012,
+      1008
+    ],
+    "display_dimensions": [
+      1012,
+      982
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "结城美柑",
+    "asset": "/assets/images/characters/mikan-yuki.webp",
+    "thumbnail": "/assets/images/characters/mikan-yuki-thumb.webp",
+    "source_name": "TBS《To LOVEる》官方角色页（角色配图）",
+    "source_page": "https://www.tbs.co.jp/anime/to-love-ru/04chara/chara.html",
+    "original_image": "https://www.tbs.co.jp/anime/to-love-ru/04chara/images/chara_img06.jpg",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "751e21810c7f4dfc2712f2470bb30fd5d15f7591f91878af92f1439981d526cd",
+    "original_dimensions": [
+      450,
+      250
+    ],
+    "display_dimensions": [
+      450,
+      250
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "羽濑川小鸠",
+    "asset": "/assets/images/characters/kobato-hasegawa.webp",
+    "thumbnail": "/assets/images/characters/kobato-hasegawa-thumb.webp",
+    "source_name": "TBS 动画官方角色页（角色配图）",
+    "source_page": "https://www.tbs.co.jp/anime/haganai/1st/chara/chara06.html",
+    "original_image": "https://www.tbs.co.jp/anime/haganai/1st/chara/images/chara_img06.jpg",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "e647fd518dcaa7381380ec8a6bff0409c7aa306013f2654810396f7330d18817",
+    "original_dimensions": [
+      650,
+      500
+    ],
+    "display_dimensions": [
+      650,
+      500
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "羽田小鸠",
+    "asset": "/assets/images/characters/kobato-haneda.webp",
+    "thumbnail": "/assets/images/characters/kobato-haneda-thumb.webp",
+    "source_name": "Marvelous 动画官方角色介绍（角色配图）",
+    "source_page": "https://www.marv.jp/special/oretsuba/chara.html",
+    "original_image": "https://www.marv.jp/special/oretsuba/img/chara/chara4.jpg",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "2aa2e2deb5ec71cfe52a039bd1f2d111c8565373ac17bd8e16f0b998ca41db2e",
+    "original_dimensions": [
+      192,
+      448
+    ],
+    "display_dimensions": [
+      192,
+      448
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "藤林椋",
+    "asset": "/assets/images/characters/ryou-fujibayashi.webp",
+    "thumbnail": "/assets/images/characters/ryou-fujibayashi-thumb.webp",
+    "source_name": "TBS 官方椋角色页（角色配图）",
+    "source_page": "https://www.tbs.co.jp/clannad/04chara/chara07.html",
+    "original_image": "https://www.tbs.co.jp/clannad/04chara/images/chara07.jpg",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "d27b452857f0e3f5fe8ca285866cb115046273d2ff83447a46a3568c4e6a79ff",
+    "original_dimensions": [
+      177,
+      450
+    ],
+    "display_dimensions": [
+      177,
+      450
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "谷风天音",
+    "asset": "/assets/images/characters/amane-tanikaze.webp",
+    "thumbnail": "/assets/images/characters/amane-tanikaze-thumb.webp",
+    "source_name": "柚子社《天使騒々 RE-BOOT!》官网（角色配图）",
+    "source_page": "https://www.yuzu-soft.com/products/ten_sz/",
+    "original_image": "https://www.yuzu-soft.com/products/ten_sz/images/mainchara/chara02/cos01.png",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "8734d84f57bd5244d221960c19aa554d75369f8402e096b7879aa2136374a351",
+    "original_dimensions": [
+      550,
+      742
+    ],
+    "display_dimensions": [
+      179,
+      715
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "金刚光",
+    "asset": "/assets/images/characters/hikari-kongo.webp",
+    "thumbnail": "/assets/images/characters/hikari-kongo-thumb.webp",
+    "source_name": "《干物妹！小埋 R》官方 Character（角色配图）",
+    "source_page": "https://www.umaru-ani.me/character/",
+    "original_image": "https://www.umaru-ani.me/img/character/chara9_stand.png",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "c2c4a51f4de9d662fcf5775bb17fa6dc28b167ad7901bf7f1ba420aae26ee7ae",
+    "original_dimensions": [
+      651,
+      880
+    ],
+    "display_dimensions": [
+      257,
+      877
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "阿良良木月火",
+    "asset": "/assets/images/characters/tsukihi-araragi.webp",
+    "thumbnail": "/assets/images/characters/tsukihi-araragi-thumb.webp",
+    "source_name": "《物语系列 第二季》官方月火介绍（角色配图）",
+    "source_page": "https://www.monogatari-series.com/2ndseason/sp/character/tsukihi.html",
+    "original_image": "https://www.monogatari-series.com/2ndseason/sp/character/img/chara_img09.jpg",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "4d8e4422cd42df6c985d5ace22a23a522587710785c6fccc3dc50e3ae30c2017",
+    "original_dimensions": [
+      574,
+      594
+    ],
+    "display_dimensions": [
+      574,
+      594
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "阿良良木火怜",
+    "asset": "/assets/images/characters/karen-araragi.webp",
+    "thumbnail": "/assets/images/characters/karen-araragi-thumb.webp",
+    "source_name": "作品官网角色图",
+    "source_page": "https://www.monogatari-series.com/2ndseason/sp/character/karen.html",
+    "original_image": "https://www.monogatari-series.com/2ndseason/sp/character/img/chara_img08.jpg",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "17e6a8bc9bdb4e95f160e47e199fde84d78fd039b337fec449cbb82b760c872d",
+    "original_dimensions": [
+      574,
+      594
+    ],
+    "display_dimensions": [
+      574,
+      594
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "雷姆",
+    "asset": "/assets/images/characters/rem.webp",
+    "thumbnail": "/assets/images/characters/rem-thumb.webp",
+    "source_name": "东京电视台动画人物介绍（角色配图）",
+    "source_page": "https://www.tv-tokyo.co.jp/anime/re-zero/chara/",
+    "original_image": "https://www.tv-tokyo.co.jp/anime/re-zero/images/chara/chara05.png",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "0901d55a68629114f6b026538866327cef73fe7b4df500aa39242f1dd395f52e",
+    "original_dimensions": [
+      684,
+      706
+    ],
+    "display_dimensions": [
+      651,
+      697
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "高坂桐乃",
+    "asset": "/assets/images/characters/kirino-kosaka.webp",
+    "thumbnail": "/assets/images/characters/kirino-kosaka-thumb.webp",
+    "source_name": "动画第一季官方角色页（角色配图）",
+    "source_page": "https://www.oreimo-anime.com/1st/chara/index.html",
+    "original_image": "https://www.oreimo-anime.com/1st/chara/img/chara01.jpg",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "0519efb4f2a8cb1deb76eb11f9fcde03d75bc3c1eecfd43c59fef2dc194c85ee",
+    "original_dimensions": [
+      939,
+      509
+    ],
+    "display_dimensions": [
+      939,
+      509
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  },
+  {
+    "character": "黑泽露比",
+    "asset": "/assets/images/characters/ruby-kurosawa.webp",
+    "thumbnail": "/assets/images/characters/ruby-kurosawa-thumb.webp",
+    "source_name": "Animate Times 动画官方角色图报道",
+    "source_page": "https://www.animatetimes.com/news/details.php?id=1461727447",
+    "original_image": "https://img.animatetimes.com/news/visual/2016/1461727447_1_28_7fc3906374343ebd4fdfec1b4186939f.jpg",
+    "retrieved_on": "2026-11-19",
+    "original_sha256": "20827af720b2c8d721dc1847f8ba63251546b7f7306d32c3a4762874768fc186",
+    "original_dimensions": [
+      442,
+      620
+    ],
+    "display_dimensions": [
+      442,
+      620
+    ],
+    "rights": "图片版权归原作者及所属作品权利人；不属于本站文字内容的许可范围。"
+  }
+]

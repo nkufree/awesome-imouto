@@ -27,6 +27,13 @@ categories:
 date: 2026-11-18 00:30:00 +0800
 verified_on: '2026-11-18'
 description: 《刀剑神域》 · 义妹
+image:
+  path: /assets/images/characters/suguha-kirigaya.webp
+  alt: 桐谷直叶（刀剑神域）角色图
+  thumbnail: /assets/images/characters/suguha-kirigaya-thumb.webp
+  source: https://www.swordart-online.net/sp/fairy/character/chara02.html
+  source_name: 动画 Fairy Dance 篇官方角色页（角色配图）
+  original: https://www.swordart-online.net/sp/fairy/character/img/chara02.jpg
 ---
 在家庭中作为桐谷和人的妹妹一起长大，在 ALO 中使用“莉法”的名字。直叶与和人不是亲兄妹，血缘上是表兄妹；和人幼时被直叶的父母收养，因此同时存在家庭兄妹与表亲关系。
 

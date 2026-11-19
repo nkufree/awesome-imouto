@@ -29,6 +29,13 @@ categories:
 verified_on: '2026-11-18'
 description: 《Little Busters!》 · 实妹
 date: 2026-11-18 00:00:00 +0800
+image:
+  path: /assets/images/characters/rin-natsume.webp
+  alt: 枣铃（Little Busters!）角色图
+  thumbnail: /assets/images/characters/rin-natsume-thumb.webp
+  source: https://sp.v-motto.jp/d/pc/appli/lbss_s/index.php
+  source_name: Visual Arts 官方角色图
+  original: https://sp.v-motto.jp/d/pc/appli/lbss_s/img/character03.jpg
 ---
 枣恭介的妹妹，直枝理树的青梅竹马，也是 Little Busters 的成员。她不擅长与陌生人交流，对熟悉的伙伴却会直接吐槽，尤其常以高踢腿回应他们的胡闹。她喜欢猫，经常被猫围在身边。
 

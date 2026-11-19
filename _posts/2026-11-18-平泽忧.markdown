@@ -24,6 +24,13 @@ categories:
 date: 2026-11-18 00:30:00 +0800
 verified_on: '2026-11-18'
 description: 《轻音少女》 · 实妹
+image:
+  path: /assets/images/characters/ui-hirasawa.webp
+  alt: 平泽忧（轻音少女）角色图
+  thumbnail: /assets/images/characters/ui-hirasawa-thumb.webp
+  source: https://www.tbs.co.jp/anime/k-on/k-on_tv/chara/chara06.html
+  source_name: TBS《轻音少女》官方忧角色页（角色配图）
+  original: https://www.tbs.co.jp/anime/k-on/k-on_tv/chara/images/chara_photo06_1.gif
 ---
 比平泽唯小一岁的妹妹。她性格温和，擅长料理与家务，学习成绩也很好，还会帮助姐姐补习。与轻音部成员从校园认识唯的视角相比，忧呈现了姐姐在家庭中的另一面。
 

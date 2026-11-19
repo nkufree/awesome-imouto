@@ -26,6 +26,13 @@ categories:
 date: 2026-11-18 00:30:00 +0800
 verified_on: '2026-11-18'
 description: 《魔卡少女樱》 · 实妹
+image:
+  path: /assets/images/characters/sakura-kinomoto.webp
+  alt: 木之本樱（魔卡少女樱）角色图
+  thumbnail: /assets/images/characters/sakura-kinomoto-thumb.webp
+  source: https://ccsakura-official.com/intro/index2.html
+  source_name: 作品官网剧情与人物介绍（角色配图）
+  original: https://ccsakura-official.com/core_sys/images/contents/00000007/block/00000135/00000396.jpg?1711744472
 ---
 木之本桃矢的妹妹，与父亲藤隆、哥哥一起生活。她活泼好动，在发现库洛牌后成为收集卡牌的 Cardcaptor。桃矢虽然常以捉弄妹妹的方式相处，实际上十分关心樱。
 
