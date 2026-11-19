@@ -1,0 +1,37 @@
+---
+title: 雷姆
+native_name: レム
+subtitle: Re:从零开始的异世界生活
+sibling: 拉姆（双胞胎姐姐）
+relation: 实妹
+sources:
+- title: 原作官方角色介绍
+  url: https://www.re-zero.com/character/
+  supports: 双胞胎姊妹关系与宅邸工作
+- title: 东京电视台动画人物介绍
+  url: https://www.tv-tokyo.co.jp/anime/re-zero/chara/
+  supports: 动画开篇人物定位
+media:
+- 动画
+tags:
+- 日漫
+- Re:从零开始的异世界生活
+- 双胞胎
+- 姊妹
+- 女仆
+character: true
+layout: post
+categories:
+- 妹妹
+- 实妹
+date: 2026-11-18 00:30:00 +0800
+verified_on: '2026-11-18'
+description: 《Re:从零开始的异世界生活》 · 实妹
+---
+在罗兹瓦尔宅邸工作的双胞胎女仆中年幼的一位，姐姐是拉姆。雷姆擅长宅邸内的家务工作，在故事中与昴相识。她是拉姆的妹妹，并非昴的妹妹。
+
+{% include character-profile.html %}
+
+## 资料来源
+
+{% include character-sources.html %}

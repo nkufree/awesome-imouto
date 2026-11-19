@@ -1,0 +1,34 @@
+---
+title: 土间埋
+native_name: 土間 うまる（どま うまる）
+subtitle: 干物妹！小埋
+sibling: 土间太平（土間タイヘイ，哥哥）
+relation: 实妹
+media:
+- 动画
+tags:
+- 日漫
+- 干物妹小埋
+- 宅女
+- 反差
+sources:
+- title: 《干物妹！小埋 R》官方角色页
+  url: https://www.umaru-ani.me/character/
+  supports: 兄妹关系、生活状态、性格及动画配音
+voice: 田中あいみ（动画版）
+character: true
+layout: post
+categories:
+- 妹妹
+- 实妹
+verified_on: '2026-11-18'
+description: 《干物妹！小埋》 · 实妹
+date: 2026-11-18 00:00:00 +0800
+---
+与哥哥太平一起生活的高中女生。在外是成绩、运动与外表都出众的优等生，回家后则沉浸在漫画、动画、游戏和可乐之中。哥哥既要照顾她的生活，也会提醒她收敛懒散的习惯。
+
+{% include character-profile.html %}
+
+## 资料来源
+
+{% include character-sources.html %}

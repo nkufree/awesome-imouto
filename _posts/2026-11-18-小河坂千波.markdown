@@ -1,0 +1,34 @@
+---
+title: 小河坂千波
+native_name: 小河坂 千波（こがさか ちなみ）
+subtitle: 星空的记忆
+sibling: 小河坂洋（哥哥）
+relation: 实妹
+sources:
+- title: FAVORITE《星空のメモリア HD》官网
+  url: https://www.favo-soft.jp/soft/product/hoshimemo_hd/index.html
+  supports: 作品及 HD 版本信息
+- title: Bangumi 千波人物条目
+  url: https://bgm.tv/character/11006
+  supports: 与小河坂洋的兄妹关系及性格
+media:
+- Galgame
+tags:
+- galgame
+- 星空的记忆
+character: true
+layout: post
+categories:
+- 妹妹
+- 实妹
+date: 2026-11-18 00:30:00 +0800
+verified_on: '2026-11-18'
+description: 《星空的记忆》 · 实妹
+---
+小河坂洋的妹妹，与哥哥一起转入故乡的学园。她说话直率、精力充沛，关心哥哥，也常成为日常中的热闹源头。不同版本的配音署名需要分别核对，本次暂不混写。
+
+{% include character-profile.html %}
+
+## 资料来源
+
+{% include character-sources.html %}

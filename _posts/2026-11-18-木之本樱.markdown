@@ -1,0 +1,36 @@
+---
+title: 木之本樱
+native_name: 木之本 桜（きのもと さくら）
+subtitle: 魔卡少女樱
+sibling: 木之本桃矢（哥哥）
+relation: 实妹
+sources:
+- title: 作品官网剧情与人物介绍
+  url: https://ccsakura-official.com/intro/index2.html
+  supports: 家庭成员、哥哥身份、角色性格与故事开端
+- title: 官网丹下樱访谈
+  url: https://ccsakura-official.com/news/index01700000.html
+  supports: 木之本樱的动画配音
+voice: 丹下桜（动画版）
+media:
+- 动画
+tags:
+- 日漫
+- 魔卡少女樱
+- 魔法少女
+character: true
+layout: post
+categories:
+- 妹妹
+- 实妹
+date: 2026-11-18 00:30:00 +0800
+verified_on: '2026-11-18'
+description: 《魔卡少女樱》 · 实妹
+---
+木之本桃矢的妹妹，与父亲藤隆、哥哥一起生活。她活泼好动，在发现库洛牌后成为收集卡牌的 Cardcaptor。桃矢虽然常以捉弄妹妹的方式相处，实际上十分关心樱。
+
+{% include character-profile.html %}
+
+## 资料来源
+
+{% include character-sources.html %}

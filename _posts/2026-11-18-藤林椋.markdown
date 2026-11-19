@@ -1,0 +1,39 @@
+---
+title: 藤林椋
+native_name: 藤林 椋（ふじばやし りょう）
+subtitle: CLANNAD
+sibling: 藤林杏（双胞胎姐姐）
+relation: 实妹
+media:
+- Galgame
+- 动画
+tags:
+- 日漫
+- galgame
+- CLANNAD
+- 双胞胎
+- 占卜
+sources:
+- title: TBS 官方椋角色页
+  url: https://www.tbs.co.jp/clannad/04chara/chara07.html
+  supports: 双胞胎姊妹关系、性格与动画配音
+- title: Nintendo Switch 版官方介绍
+  url: https://www.nintendo.com/jp/topics/article/e084bd07-971a-11e9-b641-063b7ac45a6d
+  supports: 游戏人物介绍与 Switch 版配音
+voice: 神田朱未（Switch 游戏版、动画版）
+character: true
+layout: post
+categories:
+- 妹妹
+- 实妹
+verified_on: '2026-11-18'
+description: 《CLANNAD》 · 实妹
+date: 2026-11-18 00:00:00 +0800
+---
+藤林杏的双胞胎妹妹，与冈崎朋也同班并担任班长。相比活泼的姐姐，她更安静、内向，喜欢为别人占卜，但结果往往不准。她是“姐姐的妹妹”，并非男主角的妹妹。
+
+{% include character-profile.html %}
+
+## 资料来源
+
+{% include character-sources.html %}

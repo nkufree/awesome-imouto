@@ -1,0 +1,32 @@
+---
+title: 比企谷小町
+native_name: 比企谷 小町（ひきがや こまち）
+subtitle: 我的青春恋爱物语果然有问题。
+sibling: 比企谷八幡（哥哥）
+relation: 实妹
+media:
+- 动画
+tags:
+- 日漫
+- 我的青春恋爱物语果然有问题
+sources:
+- title: TBS《俺ガイル 完》官方角色页
+  url: https://www.tbs.co.jp/anime/oregairu/character/chara05.html
+  supports: 兄妹关系、该版本学年与动画配音
+voice: 悠木碧（动画版）
+character: true
+layout: post
+categories:
+- 妹妹
+- 实妹
+verified_on: '2026-11-18'
+description: 《我的青春恋爱物语果然有问题。》 · 实妹
+date: 2026-11-18 00:00:00 +0800
+---
+比企谷八幡的妹妹。动画《完》的官方角色介绍以中学三年级时期为基准。与以奉侍部为中心的校园人物不同，小町提供了从家庭生活认识八幡的视角。
+
+{% include character-profile.html %}
+
+## 资料来源
+
+{% include character-sources.html %}

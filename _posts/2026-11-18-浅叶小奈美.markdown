@@ -1,0 +1,39 @@
+---
+title: 浅叶小奈美
+native_name: 浅葉 こなみ（あさば こなみ）
+subtitle: 恋花绽放樱飞时
+sibling: 浅叶悠真（哥哥）
+relation: 血缘待核
+sources:
+- title: Palette 官方小奈美角色页
+  url: https://palette.clearrave.co.jp/product/sakusaku/chara04.html
+  supports: 角色名及作品身份
+- title: Bangumi 小奈美人物条目
+  url: https://bgm.tv/character/21944
+  supports: 兄妹身份、日文读音与将棋喜好
+- title: PS4 版发行方产品页
+  url: https://dramaticcreate.com/sakusaku/product.html
+  supports: 作品名称与主机移植版本
+media:
+- Galgame
+relation_detail: 妹妹身份已核对；本次可读资料未提供足够明确的血缘说明。
+tags:
+- galgame
+- 恋花绽放樱飞时
+- 将棋
+character: true
+layout: post
+categories:
+- 妹妹
+- 血缘待核
+date: 2026-11-18 00:30:00 +0800
+verified_on: '2026-11-18'
+description: 《恋花绽放樱飞时》 · 血缘待核
+---
+浅叶悠真的妹妹，《恋花绽放樱飞时》的主要角色之一。她喜欢将棋，与哥哥之间的相处也是人物介绍的重要部分。本次先收录妹妹身份与角色出处，不根据同姓直接确定血缘类型。
+
+{% include character-profile.html %}
+
+## 资料来源
+
+{% include character-sources.html %}

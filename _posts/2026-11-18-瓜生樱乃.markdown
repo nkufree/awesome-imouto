@@ -1,0 +1,38 @@
+---
+title: 瓜生樱乃
+native_name: 瓜生 桜乃（うりゅう さくの）
+subtitle: 纯白交响曲
+sibling: 瓜生新吾（哥哥）
+relation: 义妹
+sources:
+- title: Palette FHD 重制版官方介绍
+  url: https://palette.clearrave.co.jp/product/mashiro-project/mashiro/
+  supports: 明确的义妹关系、性格与家务
+- title: Frontier Works 动画发行介绍
+  url: https://www.fwinc.co.jp/ikkimi/mashiro/
+  supports: 动画版配音
+voice: 後藤麻衣（动画版）
+media:
+- Galgame
+- 动画
+tags:
+- 日漫
+- galgame
+- 纯白交响曲
+- 家务
+character: true
+layout: post
+categories:
+- 妹妹
+- 义妹
+date: 2026-11-18 00:30:00 +0800
+verified_on: '2026-11-18'
+description: 《纯白交响曲》 · 义妹
+---
+瓜生新吾的义妹，性格安静、说话不多，但偶尔会给出很锐利的吐槽。她擅长料理，在家中负责炊事，是与哥哥一起经历学园统合生活的角色。
+
+{% include character-profile.html %}
+
+## 资料来源
+
+{% include character-sources.html %}

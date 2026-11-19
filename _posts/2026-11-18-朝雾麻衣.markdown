@@ -1,0 +1,39 @@
+---
+title: 朝雾麻衣
+native_name: 朝霧 麻衣（あさぎり まい）
+subtitle: 夜明前的琉璃色
+sibling: 朝雾达哉（哥哥）
+relation: 义妹
+sources:
+- title: August 完整版官方麻衣角色页
+  url: https://august-soft.com/yoake_cp/character_04.html
+  supports: 收养关系、无血缘关系与长笛
+- title: TBS 动画官方麻衣角色页
+  url: https://www.tbs.co.jp/yoakena/04chara/mai.html
+  supports: 哥哥姓名、年龄差、家务与动画配音
+voice: 後藤麻衣（动画版）
+media:
+- Galgame
+- 动画
+tags:
+- 日漫
+- galgame
+- 夜明前的琉璃色
+- 家务
+- 长笛
+character: true
+layout: post
+categories:
+- 妹妹
+- 义妹
+date: 2026-11-18 00:30:00 +0800
+verified_on: '2026-11-18'
+description: 《夜明前的琉璃色》 · 义妹
+---
+朝雾达哉的妹妹，实际上是被朝雾家收养的孩子，与达哉没有血缘关系。她擅长料理，承担家务，在学园吹奏乐部演奏长笛。
+
+{% include character-profile.html %}
+
+## 资料来源
+
+{% include character-sources.html %}

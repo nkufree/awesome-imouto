@@ -1,0 +1,40 @@
+---
+title: 高坂桐乃
+native_name: 高坂 桐乃（こうさか きりの）
+subtitle: 我的妹妹哪有这么可爱！
+sibling: 高坂京介（哥哥）
+relation: 实妹
+media:
+- 动画
+tags:
+- 日漫
+- 我的妹妹哪有这么可爱
+- 傲娇
+- 宅女
+sources:
+- title: 动画第一季官方角色页
+  url: https://www.oreimo-anime.com/1st/chara/index.html
+  supports: 兄妹关系、学业、模特与兴趣
+- title: 动画官方 Staff & Cast
+  url: https://www.oreimo-anime.com/1st/staff/index.html
+  supports: 动画配音
+- title: Aniplex 官方作品页
+  url: https://www.aniplex.co.jp/lineup/oreimo/
+  supports: 故事开端
+voice: 竹達彩奈（动画版）
+character: true
+layout: post
+categories:
+- 妹妹
+- 实妹
+verified_on: '2026-11-18'
+description: 《我的妹妹哪有这么可爱！》 · 实妹
+date: 2026-11-18 00:00:00 +0800
+---
+高坂京介的妹妹，兼顾学业、田径和杂志读者模特工作的中学生。她私下热衷动画与游戏，在哥哥面前却常表现得强势。京介得知她的兴趣后，兄妹围绕“人生咨询”逐渐展开交流。
+
+{% include character-profile.html %}
+
+## 资料来源
+
+{% include character-sources.html %}

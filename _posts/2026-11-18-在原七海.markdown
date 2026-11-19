@@ -1,0 +1,37 @@
+---
+title: 在原七海
+native_name: 在原 七海（ありはら ななみ）
+subtitle: RIDDLE JOKER
+sibling: 在原晓（在原暁，哥哥）
+relation: 义妹
+media:
+- Galgame
+tags:
+- galgame
+- RIDDLE JOKER
+- 家务
+- 搭档
+sources:
+- title: HIKARI FIELD 官方中文角色介绍
+  url: https://hikarifield.co.jp/riddle/character.html
+  supports: 无血缘及收养关系、性格、家务和支援工作
+character: true
+layout: post
+categories:
+- 妹妹
+- 义妹
+verified_on: '2026-11-18'
+description: 《RIDDLE JOKER》 · 义妹
+date: 2026-11-18 00:00:00 +0800
+---
+在原晓没有血缘关系的妹妹，与晓同被在原隆之介收养。她擅长家务，刚认识别人时比较怕生，熟悉之后则会变得亲近。在组织中负责支援工作，在生活和任务两方面都是哥哥的重要搭档。
+
+{% include character-profile.html %}
+
+## 版本与关系说明
+
+当前可读官方角色正文未列出配音署名，暂不填写，后续可补充可核验的版本及出处。
+
+## 资料来源
+
+{% include character-sources.html %}

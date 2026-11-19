@@ -1,28 +1,41 @@
 ---
-layout: post
 title: 新海天
-subtitle: 9 nine
+native_name: 新海 天（にいみ そら）
+subtitle: 9-nine-
+sibling: 新海翔（哥哥）
+relation: 实妹
+media:
+- Galgame
+- 动画
+tags:
+- 日漫
+- galgame
+- 9-nine-
+- 兄妹相声
+sources:
+- title: 9-nine- 官方角色页
+  url: https://9-nine-project.com/character/sora/
+  supports: 姓名读音、兄妹关系、性格及全年龄版配音
+- title: 动画 Ruler’s Crown 官方角色页
+  url: https://nine-anime.marv.jp/character/sora/
+  supports: 动画版关系、性格与配音
+voice: 種﨑敦美（全年龄游戏版、动画版）
+character: true
+layout: post
+categories:
+- 妹妹
+- 实妹
+verified_on: '2026-11-18'
+description: 《9-nine-》 · 实妹
 date: 2025-08-30 13:22:00 +0800
 image:
   path: /assets/images/9_nine_sora/新海天.jpg
-categories: [妹妹, 实妹]
-tags: [日漫, galgame, 9 nine, 白毛, 纸袋套头, 兄妹相声]
+last_modified_at: 2026-11-18 00:00:00 +0800
 ---
-白泉学院一年级学生。
-纯真无邪，和谁都能自来熟的聊起来的，善于交际的妹妹。实际上不擅长处理人多的情况
-虽然会有赖在翔家里不走，要翔请自己吃饭的任性的一面，
-但这也是他们兄妹关系好的体现。
-最喜欢调戏容易当真且会做出可爱反应的都。
-等注意到时已经觉醒了异能，毫不犹豫地帮助哥哥和九条都。
+新海翔的妹妹，白泉学园一年级学生。性格开朗、善于交际，常到独居哥哥的家里吃零食、打游戏；看起来很有精神，其实也有胆小的一面。获得 Artifact 后，她与翔、九条都一同行动。
 
-新海天是一个除了兄控这一点外非常真实的妹妹。皮，非常皮，让人想打一顿。不过作为哥哥的新海翔绝对不会允许别人欺负天。
+{% include character-profile.html %}
 
-重度兄控，会偷拍哥哥。珍藏了几百张哥哥的睡颜照片！在能力暴走时期尤为严重。
+## 资料来源
 
-对哥哥的称呼五花八门，有“尼尼（にーに）”“尼样（兄様）”“大哥（あにき）”“欧尼酱（お兄ちゃん）”等。（“尼尼”应该算是日语方言）
-
-天在日文中一般读"ten"，但此处读作"sora"。天本人认为父母起名起得很别扭，因为"sora"在日文中一般写作“空”或“穹”。
-
-最擅长和哥哥搭档说相声。
-
-阅读更多：[新海天](https://mzh.moegirl.org.cn/%E6%96%B0%E6%B5%B7%E5%A4%A9)
+{% include character-sources.html %}

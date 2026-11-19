@@ -1,0 +1,33 @@
+---
+title: 结城美柑
+native_name: 結城 美柑（ゆうき みかん）
+subtitle: To LOVEる
+sibling: 结城梨斗（哥哥）
+relation: 实妹
+sources:
+- title: TBS《To LOVEる》官方角色页
+  url: https://www.tbs.co.jp/anime/to-love-ru/04chara/chara.html
+  supports: 兄妹关系、家务分工、性格与动画配音
+voice: 花澤香菜（动画版）
+media:
+- 动画
+tags:
+- 日漫
+- To LOVEる
+- 家务
+character: true
+layout: post
+categories:
+- 妹妹
+- 实妹
+date: 2026-11-18 00:30:00 +0800
+verified_on: '2026-11-18'
+description: 《To LOVEる》 · 实妹
+---
+结城梨斗的妹妹。父母因工作经常不在家，美柑承担了家中不少家务，处事稳重，有时显得比哥哥更成熟。她也会观察梨斗与菈菈、春菜之间的关系，是结城家日常中的重要角色。
+
+{% include character-profile.html %}
+
+## 资料来源
+
+{% include character-sources.html %}

@@ -1,0 +1,41 @@
+---
+title: 桐谷直叶
+native_name: 桐ヶ谷 直葉（きりがや すぐは）／リーファ
+subtitle: 刀剑神域
+sibling: 桐谷和人（家庭中的哥哥、血缘上的表哥）
+relation: 义妹
+sources:
+- title: 动画 Fairy Dance 篇官方角色页
+  url: https://www.swordart-online.net/sp/fairy/character/chara02.html
+  supports: 妹妹身份与现实角色名
+- title: 维基百科《刀剑神域》角色列表（补充资料）
+  url: https://en.wikipedia.org/wiki/List_of_Sword_Art_Online_characters
+  supports: 补充表亲和收养家庭的关系，并列出原作与动画的参考资料
+media:
+- 动画
+relation_detail: 表妹兼义妹：有表亲血缘，但不是亲生兄妹。
+tags:
+- 日漫
+- 刀剑神域
+- 表妹
+- 莉法
+character: true
+layout: post
+categories:
+- 妹妹
+- 义妹
+date: 2026-11-18 00:30:00 +0800
+verified_on: '2026-11-18'
+description: 《刀剑神域》 · 义妹
+---
+在家庭中作为桐谷和人的妹妹一起长大，在 ALO 中使用“莉法”的名字。直叶与和人不是亲兄妹，血缘上是表兄妹；和人幼时被直叶的父母收养，因此同时存在家庭兄妹与表亲关系。
+
+{% include character-profile.html %}
+
+## 版本与关系说明
+
+“义妹”在这里描述家庭身份，不等于与哥哥完全没有任何亲属血缘；不能把直叶简单写成“无血缘的妹妹”。
+
+## 资料来源
+
+{% include character-sources.html %}

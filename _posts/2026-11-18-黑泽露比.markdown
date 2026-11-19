@@ -1,0 +1,37 @@
+---
+title: 黑泽露比
+native_name: 黒澤 ルビィ（くろさわ ルビィ）
+subtitle: Love Live! Sunshine!!
+sibling: 黑泽黛雅（姐姐）
+relation: 实妹
+sources:
+- title: KADOKAWA 官方露比角色商品介绍
+  url: https://kdcolle.kadokawa.co.jp/product/sunshine/4942330099889.html
+  supports: 明确记载是黛雅的妹妹、Aqours 成员及偶像喜好
+- title: 降幡愛官方 Biography
+  url: https://furihataai.jp/biography/
+  supports: 角色配音与 Aqours 活动身份
+voice: 降幡愛（Aqours 角色配音）
+media:
+- 动画
+tags:
+- 日漫
+- Love Live
+- 姊妹
+- 偶像
+character: true
+layout: post
+categories:
+- 妹妹
+- 实妹
+date: 2026-11-18 00:30:00 +0800
+verified_on: '2026-11-18'
+description: 《Love Live! Sunshine!!》 · 实妹
+---
+Aqours 成员，黑泽黛雅的妹妹，从小向往偶像活动。她与姐姐及其他伙伴一起参与学园偶像活动；此处按黑泽姊妹的亲属关系收录。
+
+{% include character-profile.html %}
+
+## 资料来源
+
+{% include character-sources.html %}

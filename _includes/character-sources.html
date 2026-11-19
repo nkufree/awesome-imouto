@@ -1,0 +1,3 @@
+{% for source in page.sources %}
+- [{{ source.title | escape }}]({{ source.url }})：{{ source.supports | escape }}。
+{% endfor %}

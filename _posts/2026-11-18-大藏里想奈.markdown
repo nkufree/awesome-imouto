@@ -1,0 +1,37 @@
+---
+title: 大藏里想奈
+native_name: 大蔵 りそな（おおくら りそな）
+subtitle: 近月少女的礼仪／少女理论及其周边
+sibling: 大藏游星（同父异母哥哥）；大藏衣远（长兄）
+relation: 实妹
+sources:
+- title: 手机版《近月少女的礼仪》官方介绍
+  url: https://moeapp.net/special/tsuriotsu.html
+  supports: 明确的同父异母关系、年龄差与性格
+- title: Navel 官方里想奈角色页
+  url: https://project-navel.com/tsukiniyorisou/chara14_resona.html
+  supports: 作品中的角色身份
+media:
+- Galgame
+relation_detail: 同父异母妹妹，属于有血缘的实妹。
+tags:
+- galgame
+- 近月少女的礼仪
+- 同父异母
+- 兄控
+character: true
+layout: post
+categories:
+- 妹妹
+- 实妹
+date: 2026-11-18 00:30:00 +0800
+verified_on: '2026-11-18'
+description: 《近月少女的礼仪／少女理论及其周边》 · 实妹
+---
+大藏游星小一岁的同父异母妹妹。她不太擅长交际，在家族面前维持大小姐的举止，私下则比较随意，也喜欢上网。她畏惧严厉的长兄衣远，却与游星十分亲近。
+
+{% include character-profile.html %}
+
+## 资料来源
+
+{% include character-sources.html %}

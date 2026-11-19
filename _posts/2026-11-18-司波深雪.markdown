@@ -1,0 +1,34 @@
+---
+title: 司波深雪
+native_name: 司波 深雪（しば みゆき）
+subtitle: 魔法科高校的劣等生
+sibling: 司波达也（哥哥）
+relation: 实妹
+media:
+- 动画
+tags:
+- 日漫
+- 魔法科高校的劣等生
+- 魔法
+- 兄控
+sources:
+- title: 《魔法科高校的优等生》官方角色页
+  url: https://mahouka-yuutousei.jp/character/
+  supports: 兄妹关系、入学阶段、性格及动画配音
+voice: 早見沙織（动画版）
+character: true
+layout: post
+categories:
+- 妹妹
+- 实妹
+verified_on: '2026-11-18'
+description: 《魔法科高校的劣等生》 · 实妹
+date: 2026-11-18 00:00:00 +0800
+---
+司波达也的妹妹，进入第一高校的一科优等生。她以“兄长大人”称呼达也，十分敬爱哥哥，也对他因二科生身份受到轻视感到不平。这里采用《魔法科高校的优等生》开篇的角色介绍，避免混入后续篇章的身份信息。
+
+{% include character-profile.html %}
+
+## 资料来源
+
+{% include character-sources.html %}

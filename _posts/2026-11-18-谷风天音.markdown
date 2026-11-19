@@ -1,0 +1,33 @@
+---
+title: 谷风天音
+native_name: 谷風 天音（たにかぜ あまね）
+subtitle: 天使☆嚣嚣 RE-BOOT!
+sibling: 谷风李空（哥哥）
+relation: 血缘待核
+sources:
+- title: 柚子社《天使騒々 RE-BOOT!》官网
+  url: https://www.yuzu-soft.com/products/ten_sz/
+  supports: 妹妹身份、性格与生活喜好
+media:
+- Galgame
+relation_detail: 官网确认妹妹身份；血缘分类待补充可明确定位的设定出处。
+tags:
+- galgame
+- 天使嚣嚣 RE-BOOT
+- 游戏
+character: true
+layout: post
+categories:
+- 妹妹
+- 血缘待核
+date: 2026-11-18 00:30:00 +0800
+verified_on: '2026-11-18'
+description: 《天使☆嚣嚣 RE-BOOT!》 · 血缘待核
+---
+谷风李空的妹妹，性格开朗，但也有些怕生。她热衷游戏和多人对战，常因玩得太投入而熬夜，不太擅长早起；对哥哥说话有点不客气，兄妹关系却并不坏。
+
+{% include character-profile.html %}
+
+## 资料来源
+
+{% include character-sources.html %}

@@ -1,0 +1,39 @@
+---
+title: 朝仓由梦
+native_name: 朝倉 由夢（あさくら ゆめ）
+subtitle: D.C.II～初音岛II～
+sibling: 朝仓音姬（姐姐）
+relation: 实妹
+sources:
+- title: CIRCUS《D.C.II P.S.》官方由梦页
+  url: https://circus-co.jp/product/dc2ps/character/yume.html
+  supports: 角色身份、作品与人物相互关系入口
+- title: Bangumi 由梦人物条目
+  url: https://bangumi.tv/character/1190
+  supports: 与音姬、义之的关系及日常称呼
+media:
+- Galgame
+- 动画
+relation_detail: 这里的实妹对应姐姐朝仓音姬；不将对樱内义之的称呼直接等同于亲生兄妹。
+tags:
+- 日漫
+- galgame
+- D.C.II
+- 初音岛
+- 姊妹
+character: true
+layout: post
+categories:
+- 妹妹
+- 实妹
+date: 2026-11-18 00:30:00 +0800
+verified_on: '2026-11-18'
+description: 《D.C.II～初音岛II～》 · 实妹
+---
+朝仓音姬的妹妹，也是与樱内义之一起成长的主要角色。她会称义之为哥哥，但这种共同生活中的称呼与她和音姬之间的亲姊妹关系需要分开描述。条目先按明确的朝仓姊妹关系归类。
+
+{% include character-profile.html %}
+
+## 资料来源
+
+{% include character-sources.html %}
